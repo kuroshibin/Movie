@@ -1,0 +1,88 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:NO
+
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB /master/LoGo/Channel_3_HD_.png",Channel_3_HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://ch3-33-web.cdn.byteark.com/live
+#EXT-X-STREAM-INF:BANDWIDTH=300000,RESOLUTION=452x480,CODECS="avc1.42e00a,mp4a.40.2"
+https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?vhost=streaming-ch3-33-web.cdn.byteark.com
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB/master/LoGo/TATV5_Logo_HD.png",Channel_5_HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://639bc5877c5fe.streamlock.net/tv5hdlive/
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=640x480,CODECS="avc1.42e00a,mp4a.40.2"
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist_480p.m3u8?vhost=streaming-streamlock.net
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB/master/LoGo/images.png",Channel_7_HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://live-cdn-hwc.ch7.com
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1080x720,CODECS="avc1.42e00a,mp4a.40.2"
+https://live-cdn-hwc.ch7.com/livech7hd/HD_720p.m3u8?vhost=streaming-hwc.ch7.com.m3u8
+
+
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.mcot.net/favicon.ico",MCOT_HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://live-cdn-hwc.ch7.com/
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1080x720,416x234,CODECS="avc1.42e00a,mp4a.40.2"
+https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8??vhost=streaming-live-org-01-cdn.mcot.net
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://nbt2hd.prd.go.th/th/file/get/file/20220419af23ab79ac267b01307177aa018fa801150044.png",NBT2_HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nbt2hd.prd.go.th/
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1080x720,416x234,CODECS="avc1.42e00a,mp4a.40.2"
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/playlist_720p.m3u8?index
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB/master/LoGo/CH-8.jpeg",Thaich8_HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.thaich8.com/live/
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1080x720,416x234,CODECS="avc1.42e00a,mp4a.40.2"
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8?vhost=streaming-prsmedia-mykojh.cdn.byteark.com
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkMIILCoauNqWLYqLoGAbBqd74b5-nWcpUAM4fGcA_tEyYmMzIRm1dFAk&s=10",อัมรินทร์-TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.adintrend.tv
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=index,CODECS="avc1.42e00a,mp4a.40.2"
+https://p1.cdn.vet/live/ch26/i/ch26i.m3u8?sid=bjeMzQ5NzZjMjIxYWE1YWUwZDdlYwMTA5NTk5NjJlMjFhMTAz&vhost=streaming-p1.cdn.vet
+#EXT-X-ENDLIST
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3AE77Xd-Ezp3Pcju4GgBU1AD2YHaBEnMPW_rZ3DD6cNtO79PbkwqPGMw&s=10",ช่อง ONE-31
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.looxtv.net
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=640x480,CODECS="avc1.42e00a,mp4a.40.2"
+https://edge2.thaicom.io/v3/td/ONE_HD/chunklist_live_480p_Swg79.m3u8?uuid=6d2c3d00-a4c3-4363-af4a-333d19ebb4c9&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1dWlkIjoiNmQyYzNkMDAtYTRjMy00MzYzLWFmNGEtMzMzZDE5ZWJiNGM5IiwiY2hhbm5lbCI6Ik9ORV9IRCIsInF1YWxpdHkiOiJBMSIsImlhdCI6MTcxMjA2Mzk3MSwibmJmIjoxNzEyMDYzOTcxLCJleHAiOjE3MTIwOTI3NzF9.Mmt0aaeb2ZKnlOVs3LLAYOCoSJRs2NaD6zpM54Q8ou8&device=loox-web?vhost=streaming-edge2.thaicom.io
+#EXT-X-ENDLIST
+
+#EXTINF:-1 tvg-logo="https://static.thaicom.io/image_channel/images_img_chn_big_Chn_27.png",ไทยรัฐ TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-proxy=https://playerhls.com:80
+#EXTVLCOPT:http-referrer=www.looxtv.net
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=index?,CODECS="avc1.42e00a,mp4a.40.2"
+https://edge12.thaicom.io/v3/ta/ThairathTV/chunklist_live_480p_TrzWO.m3u8?uuid=&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1dWlkIjoiIiwiZXhwIjoxNzEyMDk0NTk3LCJpYXQiOjE3MTIwODczOTcsInF1YWxpdHkiOiJBMSIsIm5iZiI6MTcxMjA4NzM5NywiY2hhbm5lbCI6IlRoYWlyYXRoVFYifQ.jOrJ7BUtihZ2GoWMh7Kj6IoXTC3yWRyg0BM8g1gHSn4&device&vhost=streaming-edge12.thaicom.io
+#EXT-X-ENDLIST
+
+
+
+#EXTINF:-1 tvg-logo="",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.looxtv.net
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=index?,CODECS="avc1.42e00a,mp4a.40.2"
+  vhost=streaming-edge2.thaicom.io
+#EXT-X-ENDLIST
+
+
+#EXTINF:-1 tvg-logo="",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.looxtv.net
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=index?,CODECS="avc1.42e00a,mp4a.40.2"
+  vhost=streaming-edge2.thaicom.io
+#EXT-X-ENDLIST
+
+
+
+
+
