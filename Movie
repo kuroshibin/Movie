@@ -53,7 +53,7 @@ https://hlsp2p.xyz/view/e35211db-b252-5451-b82b-eb10262d838d.m3u8?vhost=streamin
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=6000000,RESOLUTION=1920x1080,CODECS="avc1.42e00a,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=6000000,RESOLUTION=640x480,CODECS="avc1.42e00a,mp4a.40.2"
 https://hlsp2p.xyz/view/824a6a79-f377-5183-a70f-9f1c5d9b4981.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/01/The-Kitchen-2024.jpg",The Kitchen (2024) เดอะ คิทเช่น
