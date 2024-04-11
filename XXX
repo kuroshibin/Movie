@@ -2,31 +2,58 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:6
 #EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-ALLOW-CACHE:NO
+#EXT-X-ALLOW-CACHE:YES
 
 
-
-
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://xn--l3cg7a8a0cwa3f.com/wp-content/uploads/2024/04/MAX-3660.jpg",JUQ-355 ติดหนี้ไม่จอมจ่าย ความโชคร้ายมาตกที่เมียสาวใหญ่หุ่นอวบ ถูกมาเฟียร์ตามเย็ดล้างหนี้ ต่อหน้าสามีสุดที่รัก
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=
-#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=index,CODECS="avc1.42e00a,mp4a.40.2"
+#EXTVLCOPT:http-referrer=https://ดูหีไทย.com/
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://ezycdn.com/playlist-jrv83t6b-master.m3u8?vhost=streaming-ezycdn.com
 
+#EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://xn--l3cg7a8a0cwa3f.com/wp-content/uploads/2024/04/MAX-3645.jpg",หนังโป๊ M-House น้องพลอย รับบทหมอนวดสาว ขึ้นงานนวดคอสพิเศษ ให้ลูกค้าหุ่นหมีคนขี้เมื่อย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://ดูหีไทย.com/
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="chunked",NAME="Source",AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,6000000,RESOLUTION=1280x720,1920x1080,CODECS="avc1.42e00a,mp4a.40.2"
+https://ezycdn.com/playlist-q5ldhhc3-master.m3u8
+
+#EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://xn--l3cg7a8a0cwa3f.com/wp-content/uploads/2024/04/MAX-3646.jpg",ปลุกแฟนตอนเช้า แบบไม่ต้องใช้เสียงนาฬิกาปลุก งัดควยทา KY แล้วค่อยๆเสียบ ท่านอนคว่ำแทงลึกถึงใจ หุ่นจั่มมั่ม เย็ดทีเด้งทั้งตัว
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://ดูหีไทย.com/
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="chunked",NAME="Source",AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,6000000,RESOLUTION=1280x720,1920x1080,CODECS="avc1.42e00a,mp4a.40.2"
+https://ezycdn.com/playlist-v9n3qqa8-master.m3u8
+
+#EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://xn--l3cg7a8a0cwa3f.com/wp-content/uploads/2022/05/javhd-227.jpg",DV-1069 เซลฟ์จัดถนัดเปลือย (ยูมะ อาซามิ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://https://ดูหีไทย.com/
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="chunked",NAME="Source",AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,6000000,RESOLUTION=1280x720,1920x1080,CODECS="avc1.42e00a,mp4a.40.2"
+https://ezycdn.com/playlist-fvs13r9u-master.m3u8
+
+#EXTINF:-1 tvg-logo="https://xn--l3cg7a8a0cwa3f.com/wp-content/uploads/2021/05/AV-595.jpg",SOE-556 โซระ อาโออิ แอบ4 โชว์ 1 (โซระ อาโออิ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://ดูหีไทย.com/
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=index,CODECS="avc1.42e00a,mp4a.40.2"
+https://ezycdn.com/playlist-cskb8ciu-master.m3u8
 #EXTINF:-1 tvg-logo="https://xn--l3cg7a8a0cwa3f.com/wp-content/uploads/2023/07/MAX-2227.jpg",JUQ-103 แม่ของแฟนอึ๋มเกินห้ามใจ ในขณะที่แฟนสาวกำลังตั้งครรภ์ ผมก็แอบไปมันกับแม่ยาย และขืนใจ ในห้องอาบน้ำ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://ezycdn.com/
+#EXTVLCOPT:http-referrer=https://ดูหีไทย.com/
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=852x478,CODECS="avc1.42e00a,mp4a.40.2"
 https://ezycdn.com/playlist-an1p7sa-SD.m3u8
 
 #EXTINF:-1 tvg-logo="https://xn--l3cg7a8a0cwa3f.com/wp-content/uploads/2023/08/MAX-2359.jpg",JUQ-276 แอบเย็ดแม่ยาย เพราะเมียตั้งครรภ์ ไอ่หน้าจืดของขาด จับแม่ยายระบายอารมย์
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://ezycdn.com/
+#EXTVLCOPT:http-referrer=https://ดูหีไทย.com/
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=640x480,CODECS="avc1.42e00a,mp4a.40.2"
 https://ezycdn.com/playlist-e9j1jd33-master.m3u8
 
 #EXTINF:-1 tvg-logo="https://xn--l3cg7a8a0cwa3f.com/wp-content/uploads/2024/04/MAX-3618.jpg",FSDSS-726 Natsu Igarashi สาวอวบหีซิงบริสุทธิ์ ได้เรียนรู้ การมีความสุขหลังจากการแตกใน จากเจ้านาย หนุ่มใหญ่แก่เย็ดเก่ง ผู้โหดเหี้ยม
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://ezycdn.com/
+#EXTVLCOPT:http-referrer=https://ดูหีไทย.com/
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=index,CODECS="avc1.42e00a,mp4a.40.2"
 https://ezycdn.com/playlist-1o353e8k-master.m3u8
 #EXT-X-ENDLIST
