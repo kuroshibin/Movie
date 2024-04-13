@@ -40,7 +40,7 @@ https://hlsp2p.xyz/view/c205086d-424d-5bf0-aec4-6ae0341927f2.m3u8?vhost=streamin
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
-https://hlsp2p.xyz/view/a1cf85df-2ccb-511b-af12-d1ac27b85723.m3u8?vhost=streaming-hlsp2p.xyz
+https://hlsp2p.xyz/view/9a2ace38-4e55-56de-bcf4-85879d7029c8.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2019/12/Power-Rangers-2017-%E0%B8%9E%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%80%E0%B8%A3%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC.jpg",Power Rangers (2017) พาวเวอร์ เรนเจอร์ ฮีโร่ทีมมหากาฬ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
@@ -49,7 +49,7 @@ https://hlsp2p.xyz/view/a1cf85df-2ccb-511b-af12-d1ac27b85723.m3u8?vhost=streamin
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
-https://hlsp2p.xyz/view/e35211db-b252-5451-b82b-eb10262d838d.m3u8?vhost=streaming-hlsp2p.xyz
+https://hlsp2p.xyz/view/8e964d56-59ce-53ea-abae-58515065682f.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/01/Sixty-Minutes-2024.jpg",Sixty Minutes (2024) 60 นาที
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
