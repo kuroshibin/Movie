@@ -58,23 +58,71 @@
 
 
 
+#EXTINF:-1 group-title="หนังสงคราม" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Sniper-1993-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99-187x269.jpg",Sniper (1993) นักฆ่าเลือดเย็น
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/46f981c2905a8acf1835f4a2/46f981c2905a8acf1835f4a2.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="หนังสงคราม" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Sniper-2-2002-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99-2-187x269.jpg",Sniper 2 (2002) นักฆ่าเลือดเย็น 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/f1e2923d7ae9bb66846041a8/f1e2923d7ae9bb66846041a8.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="หนังสงคราม" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Sniper-3-2004-%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3%E0%B9%82%E0%B8%A5%E0%B8%81-3-187x269.jpg",Sniper 3 (2004) แผนสังหารระห่ำโลก 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/29070a6a0e4e44a9b42feec0/29070a6a0e4e44a9b42feec0.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="หนังสงคราม" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Sniper-Reloaded-2011-%E0%B8%AA%E0%B9%84%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C-4-%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B8%8B%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A3-187x269.jpg",Sniper Reloaded (2011) สไนเปอร์ 4 โคตรนักฆ่าซุ่มสังหาร
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/d8f1b9f8fafa2e2d23cd7a77/d8f1b9f8fafa2e2d23cd7a77.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="หนังสงคราม" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Sniper-Ghost-Shooter-2016-%E0%B8%AA%E0%B9%84%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%8C%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%87%E0%B8%B2-187x269.jpg",Sniper Ghost Shooter (2016) สไนเปอร์ เพชฌฆาตไร้เงา
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/81c99b739f8ec9a9509edcda/81c99b739f8ec9a9509edcda.m3u8?vhost=streaming-main.24playerhd.com
 
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="หนังสงคราม" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Darkest-Hour-2017-%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%82%E0%B8%A1%E0%B8%87%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81-187x269.jpg",Darkest Hour (2017) ชั่วโมงพลิกโลก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/959c9e71bb7ff9222e617ba0/959c9e71bb7ff9222e617ba0.m3u8?vhost=streaming-main.24playerhd.com
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/09/The-Witch-Part-2-The-Other-One-2022.jpg",The Witch: Part 2 – The Other One (2022) แม่มดมือสังหาร 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
