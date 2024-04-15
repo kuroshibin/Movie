@@ -18,7 +18,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -28,7 +28,7 @@ https://hlsp2p.xyz/view/4bcbbdc1-b3ce-509e-9652-06b7ffa11244.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -38,7 +38,7 @@ https://hlsp2p.xyz/view/2f9a4cee-d434-5a43-aa62-671eef7e49c6.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -48,7 +48,7 @@ https://hlsp2p.xyz/view/c8977c53-5c30-52a1-8a69-c193f13f30e4.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -58,7 +58,7 @@ https://hlsp2p.xyz/view/97324774-006d-5ca6-aa38-3ba5223c6131.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -68,7 +68,7 @@ https://hlsp2p.xyz/view/9b7fa122-c871-50f2-9f0e-bad5c8a9e368.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -78,7 +78,7 @@ https://hlsp2p.xyz/view/92c6d81b-1740-5d12-a2ac-b405e0bf81a4.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -88,7 +88,7 @@ https://hlsp2p.xyz/view/41eb9f22-39b4-5766-9342-b9fd75e79b63.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -98,7 +98,7 @@ https://hlsp2p.xyz/view/852339b5-62c2-5ebe-b8e2-c8da77069eec.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -108,7 +108,7 @@ https://hlsp2p.xyz/view/ae3c1b2d-9d48-515a-bf05-d22f616230ae.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -118,7 +118,7 @@ https://hlsp2p.xyz/view/0a7cd1b8-89d6-5652-a824-527659c4a63c.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -128,7 +128,7 @@ https://hlsp2p.xyz/view/f9136a71-6578-5f73-8714-ff2439d8fbe8.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -138,7 +138,7 @@ https://hlsp2p.xyz/view/72af1fc2-646d-5df4-8b0c-30709c581686.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -148,7 +148,7 @@ https://hlsp2p.xyz/view/69f30ca9-ddb2-5421-bf3a-237197afbb2c.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -158,7 +158,7 @@ https://hlsp2p.xyz/view/3fefa51a-3845-5ce3-b46a-6b053e61eb9f.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -168,7 +168,7 @@ https://hlsp2p.xyz/view/3e4bbdc0-4f05-5597-a084-b50f1b1b5074.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -178,7 +178,7 @@ https://hlsp2p.xyz/view/72c02270-4007-5220-91e7-44e4f735bf97.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -188,7 +188,7 @@ https://hlsp2p.xyz/view/17a30b44-b3d8-541a-bbfe-45bcb2e6e311.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -198,7 +198,7 @@ https://hlsp2p.xyz/view/9ace1b80-d6eb-5323-9b17-47b721a97b5e.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -208,7 +208,7 @@ https://hlsp2p.xyz/view/a0950d1c-5211-5109-967a-fdc07f3342f0.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -218,7 +218,7 @@ https://hlsp2p.xyz/view/8b8dc3d0-8614-5b84-aa6d-08e4d1828a37.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -228,7 +228,7 @@ https://hlsp2p.xyz/view/44ba5b85-b06e-5763-9e2c-015b1525e4c5.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -238,7 +238,7 @@ https://hlsp2p.xyz/view/b1299379-e51e-54c0-836d-5928ef647518.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -248,7 +248,7 @@ https://hlsp2p.xyz/view/5a38ae29-6e06-5f22-b7ee-f289c0b4a893.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -258,7 +258,7 @@ https://hlsp2p.xyz/view/c7405252-9dc5-515e-82ca-6e62f679ac04.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -268,7 +268,7 @@ https://hlsp2p.xyz/view/a55e3364-4082-50e4-8801-981034738b38.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -278,7 +278,7 @@ https://hlsp2p.xyz/view/83d748de-1798-542b-9342-8787457f914f.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -288,7 +288,7 @@ https://hlsp2p.xyz/view/cc9a35e8-3edc-5a7a-b515-058aad997be0.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -298,7 +298,7 @@ https://hlsp2p.xyz/view/7e9e626f-10bb-5912-be50-87fb4f2ab1c3.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -308,7 +308,7 @@ https://hlsp2p.xyz/view/71c6cf7b-6a76-542c-bd4d-c0bedef1782e.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -318,7 +318,7 @@ https://hlsp2p.xyz/view/abaa4163-ec78-5755-ab88-a0705d44afd4.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -328,7 +328,7 @@ https://hlsp2p.xyz/view/803d3f63-26cb-5a28-b615-b0c9a45d585d.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -338,7 +338,7 @@ https://hlsp2p.xyz/view/98c058f6-bf67-5841-ab13-5ef16344dce6.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -348,7 +348,7 @@ https://hlsp2p.xyz/view/13672b87-1d8f-5d94-98a7-fdaa62b12fa1.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -358,7 +358,7 @@ https://hlsp2p.xyz/view/345c865d-e159-59bb-925c-1e2a42bc784a.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -368,7 +368,7 @@ https://hlsp2p.xyz/view/faec70f7-0166-5ac4-8942-9e5c5fd53b4d.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -378,7 +378,7 @@ https://hlsp2p.xyz/view/0f86e233-26e2-586d-aeab-f5be482cf53d.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -388,7 +388,7 @@ https://hlsp2p.xyz/view/c205086d-424d-5bf0-aec4-6ae0341927f2.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -398,7 +398,7 @@ https://hlsp2p.xyz/view/9a2ace38-4e55-56de-bcf4-85879d7029c8.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -408,7 +408,7 @@ https://hlsp2p.xyz/view/8e964d56-59ce-53ea-abae-58515065682f.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -418,7 +418,7 @@ https://hlsp2p.xyz/view/824a6a79-f377-5183-a70f-9f1c5d9b4981.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -428,7 +428,7 @@ https://hlsp2p.xyz/view/33313b74-6d4a-566e-8edc-2c9e71eadd85.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -438,7 +438,7 @@ https://hlsp2p.xyz/view/9a684e7b-cd50-5dc8-bb31-184bc06938ad.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -448,7 +448,7 @@ https://hlsp2p.xyz/view/6e8eba67-6a91-5f74-8d6d-43953d6f90ed.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -458,7 +458,7 @@ https://hlsp2p.xyz/view/f2f52510-d646-535e-bad6-8a783d902c23.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -468,7 +468,7 @@ https://hlsp2p.xyz/view/71957eb6-235c-5a7e-8001-cfa31de8e99b.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -478,7 +478,7 @@ https://hlsp2p.xyz/view/423d0a82-b299-528f-877b-fa53e2e6931c.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -488,7 +488,7 @@ https://hlsp2p.xyz/view/f03fd052-2b60-5d28-8463-c0d783acd499.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -498,7 +498,7 @@ https://hlsp2p.xyz/view/bea4faad-b92c-57ae-82f1-c50a2c32fea7.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -508,7 +508,7 @@ https://hlsp2p.xyz/view/e2ec9cb1-40b3-5dfb-9937-495b61f5fefc.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -518,7 +518,7 @@ https://hlsp2p.xyz/view/e1f71778-5572-55c8-a7ee-f246bdc09c09.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -528,7 +528,7 @@ https://hlsp2p.xyz/view/f4af0a24-9300-5b86-95c6-2bc4fbecae37.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -538,7 +538,7 @@ https://hlsp2p.xyz/view/03b707f0-2405-5228-8207-a800066c2082.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -548,7 +548,7 @@ https://hlsp2p.xyz/view/893d50f1-bc90-5627-b70b-f36c1ceb0e72.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -558,7 +558,7 @@ https://hlsp2p.xyz/view/591f277b-680e-55b2-a658-a5cf5ba6dbe2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -568,7 +568,7 @@ https://hlsp2p.xyz/view/5cb508d2-c477-5393-8c63-1f46adb8722a.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -578,7 +578,7 @@ https://hlsp2p.xyz/view/7df9ec21-614d-5be8-86a1-758da4062a96.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -588,7 +588,7 @@ https://hlsp2p.xyz/view/81115c2a-e735-59d5-a697-46e48fc72531.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -598,7 +598,7 @@ https://hlsp2p.xyz/view/53c9cf7f-c3e6-554d-9a42-17eb79c262ed.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -608,7 +608,7 @@ https://hlsp2p.xyz/view/f3bf5f79-b29a-5bf2-991d-4444afb7ab52.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -618,7 +618,7 @@ https://hlsp2p.xyz/view/f5b032d3-2195-528d-997c-d407bc1d38ad.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -628,7 +628,7 @@ https://hlsp2p.xyz/view/0abd5a35-79dd-5bfa-afff-a7ca86895b0a.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -638,7 +638,7 @@ https://hlsp2p.xyz/view/92c6d81b-1740-5d12-a2ac-b405e0bf81a4.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -648,7 +648,7 @@ https://hlsp2p.xyz/view/3668953e-1045-5ea2-b518-453941e56f04.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -658,7 +658,7 @@ https://hlsp2p.xyz/view/b387af86-afdd-53e3-add0-42371a10651d.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -668,7 +668,7 @@ https://hlsp2p.xyz/view/3074860e-ecb7-534f-b628-63e49f3a4853.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -678,7 +678,7 @@ https://hlsp2p.xyz/view/54ef0f8b-0e2f-5952-940f-e339681ac7f1.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -688,7 +688,7 @@ https://hlsp2p.xyz/view/b1c4f041-8449-5ccc-a542-d2dc0a54a9e6.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -698,7 +698,7 @@ https://hlsp2p.xyz/view/f27cb94d-03e2-59c6-8537-3e923932dabc.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -708,7 +708,7 @@ https://hlsp2p.xyz/view/8b3c0205-ed8e-54aa-905c-c913cf79c5ce.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -718,7 +718,7 @@ https://hlsp2p.xyz/view/461baa7d-33f1-58cb-963c-174b3c217163.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -728,7 +728,7 @@ https://hlsp2p.xyz/view/88a83aff-0fce-52d6-93f4-2e8cc644479c.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -738,7 +738,7 @@ https://hlsp2p.xyz/view/27a335b6-d548-5e86-9eed-16d411f1f7b8.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -748,7 +748,7 @@ https://hlsp2p.xyz/view/fff55181-3acd-5aca-b2f5-9009506da379.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -758,7 +758,7 @@ https://hlsp2p.xyz/view/310e4559-4788-5fc3-85da-6eceb78acc53.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -768,7 +768,7 @@ https://hlsp2p.xyz/view/5ce1e28c-18c8-5d43-8c08-18f6833dfb02.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -778,7 +778,7 @@ https://hlsp2p.xyz/view/db4c623a-8047-54e2-a42d-676d1abd60fb.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -788,7 +788,7 @@ https://hlsp2p.xyz/view/300bcad2-f13d-5f4e-a40e-950c66bfbfb6.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -798,7 +798,7 @@ https://hlsp2p.xyz/view/3c10ef83-1340-5114-8719-43ab2e59d407.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -808,7 +808,7 @@ https://hlsp2p.xyz/view/03beb140-09fe-5f2b-b1b0-a81f2011ef22.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -818,7 +818,7 @@ https://hlsp2p.xyz/view/baec9fb6-0fd1-5c21-b785-eb781fe32ed0.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -828,7 +828,7 @@ https://hlsp2p.xyz/view/f714fa63-93fc-5981-997d-8cc8ff1b83d3.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -838,7 +838,7 @@ https://hlsp2p.xyz/view/bc248ba5-5c1c-5658-b138-27f7a166062f.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -848,7 +848,7 @@ https://hlsp2p.xyz/view/e7a7658d-9435-52c4-9504-e8a0bbbfcd93.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -858,7 +858,7 @@ https://hlsp2p.xyz/view/475ada49-fb31-5156-a404-0ee98d8f7e8e.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -868,7 +868,7 @@ https://hlsp2p.xyz/view/06eb72e1-d871-5d6d-8fcc-3c3d4d021029.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -878,7 +878,7 @@ https://hlsp2p.xyz/view/855fc556-4111-53c6-82cf-801a60359d96.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -888,7 +888,7 @@ https://hlsp2p.xyz/view/d41ff9c4-de31-5d8c-a76b-018d62b81e48.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -898,7 +898,7 @@ https://hlsp2p.xyz/view/be37ba08-dbe7-5966-8fa4-916207b1580f.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -908,7 +908,7 @@ https://hlsp2p.xyz/view/1971aade-6f9a-56dd-83b8-1d3eb6020e92.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -918,7 +918,7 @@ https://hlsp2p.xyz/view/fa9ab54c-0f7c-5eff-853f-8992d67a59f3.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -928,7 +928,7 @@ https://hlsp2p.xyz/view/0856e968-200e-5bd8-a5a4-7dc99d7dbb39.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -938,7 +938,7 @@ https://hlsp2p.xyz/view/dde2803b-1904-58eb-bfa0-877777992869.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -948,7 +948,7 @@ https://hlsp2p.xyz/view/3b094451-0f9b-5853-89e3-6b28501479b3.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -958,7 +958,7 @@ https://hlsp2p.xyz/view/2460a233-5388-5235-b93c-34fcbb1f0781.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -968,7 +968,7 @@ https://hlsp2p.xyz/view/ceca6434-660f-525e-9ffd-b1d25aea5d7f.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -978,7 +978,7 @@ https://hlsp2p.xyz/view/edefaa54-3e8c-5e2e-9a91-bdad27be63c2.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -988,7 +988,7 @@ https://hlsp2p.xyz/view/ea5173bf-7a31-5e73-9368-a9268296ab9c.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -998,7 +998,7 @@ https://hlsp2p.xyz/view/cb9d33ad-d708-5209-9191-181b760111dd.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1008,7 +1008,7 @@ https://hlsp2p.xyz/view/b10a55ce-d96e-5d91-ad16-e34e8ff73e67.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1018,7 +1018,7 @@ https://hlsp2p.xyz/view/fb7a1d1e-78ff-5985-a4ed-59592c0099f2.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1028,7 +1028,7 @@ https://hlsp2p.xyz/view/22f630e1-8ff9-5485-9b66-b94947920db3.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1038,7 +1038,7 @@ https://hlsp2p.xyz/view/6b54e948-6965-5dc0-888b-9d6ac07f4df7.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1048,7 +1048,7 @@ https://hlsp2p.xyz/view/542a9b18-ec2d-55b8-8518-89c6bd5c9891.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1058,7 +1058,7 @@ https://hlsp2p.xyz/view/1108d4d8-9e01-5792-a43d-d8fb15923cad.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1068,7 +1068,7 @@ https://hlsp2p.xyz/view/4d3f5f98-a0d0-5aab-baf2-b0085a9baa34.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1078,7 +1078,7 @@ https://hlsp2p.xyz/view/0b081776-00d5-55aa-840d-228af581bfb1.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1088,7 +1088,7 @@ https://hlsp2p.xyz/view/2c89c6f9-95d1-5390-b7a1-1c292a838485.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1098,7 +1098,7 @@ https://hlsp2p.xyz/view/b969263f-2cd8-59ea-b720-1459aa3e5ace.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1108,7 +1108,7 @@ https://hlsp2p.xyz/view/3839eb1d-b9ab-5385-a1f6-3c0366b50f68.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1118,7 +1118,7 @@ https://hlsp2p.xyz/view/2c7ace0b-1dca-55c2-b574-49f0e8fa7239.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1134,7 +1134,7 @@ https://hlsp2p.xyz/view/4b5d99b8-8392-5ea5-ac0d-dba321c04069.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1144,7 +1144,7 @@ https://hlsp2p.xyz/view/20517fce-31bd-562b-9747-d4f0101a2078.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1154,7 +1154,7 @@ https://hlsp2p.xyz/view/6b7958be-9bdd-5cd9-82dd-1973915f55c4.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1164,7 +1164,7 @@ https://hlsp2p.xyz/view/893f38d2-19e8-56bf-9247-471930947b84.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1174,7 +1174,7 @@ https://hlsp2p.xyz/view/44099ea6-c4b4-5d95-a84d-9916a0f9d11b.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1184,7 +1184,7 @@ https://hlsp2p.xyz/view/d9c22791-dbf4-503b-b2af-6834089fc97c.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1194,7 +1194,7 @@ https://hlsp2p.xyz/view/8fe2a96e-e3f8-5eac-a911-aa9c5011c508.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1204,7 +1204,7 @@ https://hlsp2p.xyz/view/97befba2-4c5b-56b6-894a-c40551efe5cd.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1214,7 +1214,7 @@ https://hlsp2p.xyz/view/14d1e782-c83d-5afc-86da-2dcb833e8ae4.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1224,7 +1224,7 @@ https://hlsp2p.xyz/view/87d64393-a7ee-562d-ad00-2acdab9845b9.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1234,7 +1234,7 @@ https://hlsp2p.xyz/view/8a2d0484-b12b-5087-a152-e873a3bcf913.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1244,7 +1244,7 @@ https://hlsp2p.xyz/view/c982385d-bd80-581e-a5d2-5ce76a58af8e.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1254,7 +1254,7 @@ https://hlsp2p.xyz/view/e09c5c5c-5972-5fb6-8ed0-a82970f8f190.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1264,7 +1264,7 @@ https://hlsp2p.xyz/view/3e6c51b8-446a-57d0-a4fc-b8c1c5d66df7.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1274,7 +1274,7 @@ https://hlsp2p.xyz/view/63e6d744-a225-55f3-8c27-7da7af27c7b8.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1284,7 +1284,7 @@ https://hlsp2p.xyz/view/99cde5a0-be65-57c9-83a5-b344e17dd409.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1294,7 +1294,7 @@ https://hlsp2p.xyz/view/f25d619a-c6ff-541c-a7a5-8c6e99ecd3af.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1304,7 +1304,7 @@ https://hlsp2p.xyz/view/0c4a00bb-dda1-5f3a-933b-09a922211c48.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1314,7 +1314,7 @@ https://hlsp2p.xyz/view/d79ca51d-520f-512f-9993-2043219fbe88.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1324,7 +1324,7 @@ https://hlsp2p.xyz/view/54efb9a2-b346-5302-a42d-541a08cc44e5.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1334,7 +1334,7 @@ https://hlsp2p.xyz/view/ecffe99a-88dd-583a-afc5-9ee9212efa42.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1344,7 +1344,7 @@ https://hlsp2p.xyz/view/54bca188-738d-5d92-b22a-b8826abdb258.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1354,7 +1354,7 @@ https://hlsp2p.xyz/view/2525a507-3239-5c9e-8414-481b455aab94.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1364,7 +1364,7 @@ https://hlsp2p.xyz/view/db8efda5-929f-576a-ba58-09f8f8ba15df.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1374,7 +1374,7 @@ https://hlsp2p.xyz/view/c52a8e4b-1c79-5db6-8f19-1cd47dc438c3.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1384,7 +1384,7 @@ https://hlsp2p.xyz/view/5d692eb4-1ec0-55bc-9395-232c4e307ca7.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1394,10 +1394,10 @@ https://hlsp2p.xyz/view/b02cd836-731b-52bc-a9fb-0018993a3bbc.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=480x360,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/c0675d02-4202-5d8e-aa2e-66eab8d4b849.m3u8?vhost=streaming-hlsp2p.xyz
@@ -1406,7 +1406,7 @@ https://hlsp2p.xyz/view/c0675d02-4202-5d8e-aa2e-66eab8d4b849.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1417,7 +1417,7 @@ https://hlsp2p.xyz/view/0fd1b074-275c-53ac-8a05-655795bec6fb.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1427,7 +1427,7 @@ https://hlsp2p.xyz/view/f6088039-34d6-5d5b-ad9e-f7d7b6708f0f.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1437,7 +1437,7 @@ https://hlsp2p.xyz/view/c53b959f-2807-5bd8-8aeb-0d71ce393452.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1447,7 +1447,7 @@ https://hlsp2p.xyz/view/cf7461d5-88d5-5756-b5ae-b795b87f7a77.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1457,7 +1457,7 @@ https://hlsp2p.xyz/view/4d5543e4-429c-5f5a-aee6-58fad1a992f6.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1467,7 +1467,7 @@ https://hlsp2p.xyz/view/4bbcaf25-1ca2-5153-9443-94f746cf24ca.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1477,7 +1477,7 @@ https://hlsp2p.xyz/view/429e14e2-5d7a-542e-b5b1-1804c695775f.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1487,7 +1487,7 @@ https://hlsp2p.xyz/view/e7b93b3c-9d0a-5cf1-bbc7-4f28d47301bb.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1497,7 +1497,7 @@ https://hlsp2p.xyz/view/c98cf13e-f07a-5689-98d6-cab95e49a85b.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1507,7 +1507,7 @@ https://hlsp2p.xyz/view/6ffb699b-f0a1-5e2c-bae0-b55ca583665a.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1517,7 +1517,7 @@ https://hlsp2p.xyz/view/43c94d5b-8f9c-5324-84cf-19a4faeedb93.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1527,7 +1527,7 @@ https://hlsp2p.xyz/view/b87ba6db-4d4a-54f7-aa82-a6410c9c4af9.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1537,7 +1537,7 @@ https://hlsp2p.xyz/view/c5d1e7ae-a8d2-5bd1-89ec-649478f24cd3.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1547,7 +1547,7 @@ https://hlsp2p.xyz/view/faeaad11-0700-5730-8429-3d6c1296636f.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1557,7 +1557,7 @@ https://hlsp2p.xyz/view/8ee26457-67b4-5e50-9dea-a705d97419f2.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
@@ -1567,7 +1567,7 @@ https://hlsp2p.xyz/view/8e3ecaec-c21d-5680-9e42-c1c1949c5f76.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Online-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
