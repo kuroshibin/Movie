@@ -528,11 +528,11 @@ https://hlsp2p.xyz/view/f4af0a24-9300-5b86-95c6-2bc4fbecae37.m3u8?vhost=streamin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hlsp2p.xyz
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
-#EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
-https://hlsp2p.xyz/view/03b707f0-2405-5228-8207-a800066c2082.m3u8?vhost=streaming-hlsp2p.xyz
+https://main.24playerhd.com/newplaylist/5b226b5984919b5fcbe60273/5b226b5984919b5fcbe60273.m3u8?vhost=streaming-main.24playerhd.com
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/rSsyxcsTmpxmj6dqGlr.jpg",Conan the Barbarian (1982) โคแนน ยอดคนแดนเถื่อน
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
