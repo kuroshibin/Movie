@@ -8,8 +8,8 @@
 #EXT-X-I-FRAME-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=11854000,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 #EXT-X-I-FRAME-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5093000,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 #EXT-X-I-FRAME-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3605000,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
-#EXT-X-I-FRAME-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1640480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
-#EXT-X-I-FRAME-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1640480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-I-FRAME-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1999999,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-I-FRAME-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1999999,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 
 
 
@@ -21,7 +21,7 @@
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/4bcbbdc1-b3ce-509e-9652-06b7ffa11244.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/01/Haunting-of-the-Queen-Mary-2023.jpg",Haunting of the Queen Mary (2023) เรือผีปีศาจ
@@ -31,7 +31,7 @@ https://hlsp2p.xyz/view/4bcbbdc1-b3ce-509e-9652-06b7ffa11244.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/2f9a4cee-d434-5a43-aa62-671eef7e49c6.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/01/The-Forbidden-Play.png",The Forbidden Play (2023) หลุมหลอนซ่อนคำสาป
@@ -41,7 +41,7 @@ https://hlsp2p.xyz/view/2f9a4cee-d434-5a43-aa62-671eef7e49c6.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/c8977c53-5c30-52a1-8a69-c193f13f30e4.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/02/Don-t-Look-at-the-Demon.png",Don’t Look at the Demon (2022) ฝรั่งเซ่นผี
@@ -51,7 +51,7 @@ https://hlsp2p.xyz/view/c8977c53-5c30-52a1-8a69-c193f13f30e4.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/97324774-006d-5ca6-aa38-3ba5223c6131.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/02/Sick.png",Sick (2022) ป่วย
@@ -61,7 +61,7 @@ https://hlsp2p.xyz/view/97324774-006d-5ca6-aa38-3ba5223c6131.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/9b7fa122-c871-50f2-9f0e-bad5c8a9e368.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/02/Congo-1995.png",Congo (1995) คองโก มฤตยูหยุดนรก
@@ -71,7 +71,7 @@ https://hlsp2p.xyz/view/9b7fa122-c871-50f2-9f0e-bad5c8a9e368.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/92c6d81b-1740-5d12-a2ac-b405e0bf81a4.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/12/Thanksgiving-2023.jpg",Thanksgiving (2023) คืนเดือดเชือดขาช็อป
@@ -81,7 +81,7 @@ https://hlsp2p.xyz/view/92c6d81b-1740-5d12-a2ac-b405e0bf81a4.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/41eb9f22-39b4-5766-9342-b9fd75e79b63.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/09/Speak-No-Evil-2022-Sub-TH.jpg",Speak No Evil (2022) เด็กผู้ไม่พูด
@@ -91,7 +91,7 @@ https://hlsp2p.xyz/view/41eb9f22-39b4-5766-9342-b9fd75e79b63.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/852339b5-62c2-5ebe-b8e2-c8da77069eec.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/02/The-Covenant-2006.jpg",The Covenant (2006) สี่พลังมนต์ล้างโลก
@@ -101,7 +101,7 @@ https://hlsp2p.xyz/view/852339b5-62c2-5ebe-b8e2-c8da77069eec.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/ae3c1b2d-9d48-515a-bf05-d22f616230ae.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2020/07/The-Bridge-Curse-%E0%B8%84%E0%B8%B3%E0%B8%AA%E0%B8%B2%E0%B8%9B%E0%B8%AA%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%AE%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%99-2020.jpg",The Bridge Curse (2020) คำสาปสะพานเฮี้ยน
@@ -111,7 +111,7 @@ https://hlsp2p.xyz/view/ae3c1b2d-9d48-515a-bf05-d22f616230ae.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/0a7cd1b8-89d6-5652-a824-527659c4a63c.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/02/The-Bridge-Curse-Ritual-2023.jpg",The Bridge Curse Ritual (2023) โรงเรียนผีเฮี้ยน
@@ -121,7 +121,7 @@ https://hlsp2p.xyz/view/0a7cd1b8-89d6-5652-a824-527659c4a63c.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/f9136a71-6578-5f73-8714-ff2439d8fbe8.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/02/Its-in-the-Woods-2022.jpg",It’s in the Woods (2022) ป่าแปลกแลกตาย
@@ -131,7 +131,7 @@ https://hlsp2p.xyz/view/f9136a71-6578-5f73-8714-ff2439d8fbe8.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/72af1fc2-646d-5df4-8b0c-30709c581686.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2019/09/%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B8%B2%E0%B8%84-Pee-Nak-2019.jpg",พี่นาค Pee Nak (2019)
@@ -141,7 +141,7 @@ https://hlsp2p.xyz/view/72af1fc2-646d-5df4-8b0c-30709c581686.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/69f30ca9-ddb2-5421-bf3a-237197afbb2c.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2020/08/%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B8%B2%E0%B8%84-2-Pee-Nak-2-2020.jpg",พี่นาค 2 Pee Nak 2 (2020)
@@ -151,7 +151,7 @@ https://hlsp2p.xyz/view/69f30ca9-ddb2-5421-bf3a-237197afbb2c.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/3fefa51a-3845-5ce3-b46a-6b053e61eb9f.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/07/%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B8%B2%E0%B8%84-3-Pee-Nak-3-2022.jpg",พี่นาค 3 Pee Nak 3 (2022)
@@ -161,7 +161,7 @@ https://hlsp2p.xyz/view/3fefa51a-3845-5ce3-b46a-6b053e61eb9f.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/3e4bbdc0-4f05-5597-a084-b50f1b1b5074.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/03/Urban-Myths-2022.jpg",Urban Myths (2022) ผีดุสุดโซล
@@ -171,7 +171,7 @@ https://hlsp2p.xyz/view/3e4bbdc0-4f05-5597-a084-b50f1b1b5074.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/72c02270-4007-5220-91e7-44e4f735bf97.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/aBtnPmQhgOsA4Z9nQva.jpg",Manhole (2014) ปริศนาฆาตกรวิปริต
@@ -181,7 +181,7 @@ https://hlsp2p.xyz/view/72c02270-4007-5220-91e7-44e4f735bf97.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/17a30b44-b3d8-541a-bbfe-45bcb2e6e311.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/06/The-Black-Demon-2023.jpg",The Black Demon (2023) เดอะแบล็ค เดมอน
@@ -191,8 +191,8 @@ https://hlsp2p.xyz/view/17a30b44-b3d8-541a-bbfe-45bcb2e6e311.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
-https://hlsp2p.xyz/view/9ace1b80-d6eb-5323-9b17-47b721a97b5e.m3u8?vhost=streaming-hlsp2p.xyz
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://hlsp2p.xyz/view/080f6020-ad2c-5f75-bcf6-4ff87153d89e.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/05/Disquiet-2023.jpg",Disquiet (2023)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
@@ -201,7 +201,7 @@ https://hlsp2p.xyz/view/9ace1b80-d6eb-5323-9b17-47b721a97b5e.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/a0950d1c-5211-5109-967a-fdc07f3342f0.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/ZgnxAjY8j9LNpQrcANY.jpg",Cabin Fever (2002) 10 วินาที หนีตาย เชื้อนรก ภาค 1
@@ -211,7 +211,7 @@ https://hlsp2p.xyz/view/a0950d1c-5211-5109-967a-fdc07f3342f0.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/8b8dc3d0-8614-5b84-aa6d-08e4d1828a37.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/OOsKgu00G0HGyX79KFi.jpg",Joy Ride 3 (2014) เกมหยอก หลอกไปเชือด 3
@@ -221,7 +221,7 @@ https://hlsp2p.xyz/view/8b8dc3d0-8614-5b84-aa6d-08e4d1828a37.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/44ba5b85-b06e-5763-9e2c-015b1525e4c5.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/SaLwzPSEneRe8H3PiJI.jpg",Body Jumper (2001) ปอบหวีดสยอง
@@ -231,7 +231,7 @@ https://hlsp2p.xyz/view/44ba5b85-b06e-5763-9e2c-015b1525e4c5.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/b1299379-e51e-54c0-836d-5928ef647518.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/J898z0ig8AGWwnQ6dRm.jpg",The Others (2001) คฤหาสน์ สัมผัสผวา
@@ -241,7 +241,7 @@ https://hlsp2p.xyz/view/b1299379-e51e-54c0-836d-5928ef647518.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/5a38ae29-6e06-5f22-b7ee-f289c0b4a893.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/jPm0UwsLeILNac8iRmu.jpg",The Mist (2007) มฤตยูหมอกกินมนุษย์
@@ -251,7 +251,7 @@ https://hlsp2p.xyz/view/5a38ae29-6e06-5f22-b7ee-f289c0b4a893.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/c7405252-9dc5-515e-82ca-6e62f679ac04.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/01/Into-the-Deep-%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%8B%E0%B8%B1%E0%B9%88%E0%B8%A1%E0%B8%AB%E0%B8%A7%E0%B8%B5%E0%B8%94-2022.jpg",Into the Deep (2022) สามซั่มหวีด
@@ -261,7 +261,7 @@ https://hlsp2p.xyz/view/c7405252-9dc5-515e-82ca-6e62f679ac04.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/a55e3364-4082-50e4-8801-981034738b38.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/01/Black-Full-Moon-2017-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%AB%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD.jpg",วันหมาหอนที่ค่ายลูกเสือ Black Full Moon (2017)
@@ -271,7 +271,7 @@ https://hlsp2p.xyz/view/a55e3364-4082-50e4-8801-981034738b38.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/83d748de-1798-542b-9342-8787457f914f.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/xjXCacgaCxeqrZKQPxX.jpg",Cabin Fever 2: Spring Fever (2009) 10 วินาที หนีตายเชื้อนรก ภาค 2
@@ -281,7 +281,7 @@ https://hlsp2p.xyz/view/83d748de-1798-542b-9342-8787457f914f.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/cc9a35e8-3edc-5a7a-b515-058aad997be0.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2019/07/Childs-Play-2019-%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%9D%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99.jpg",Child’s Play (2019) คลั่งฝังหุ่น
@@ -291,7 +291,7 @@ https://hlsp2p.xyz/view/cc9a35e8-3edc-5a7a-b515-058aad997be0.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/7e9e626f-10bb-5912-be50-87fb4f2ab1c3.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/04/The-Offering-%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%83%E0%B8%99%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87-2022.jpg",The Offering (2022) มันสิงอยู่ในร่าง
@@ -301,7 +301,7 @@ https://hlsp2p.xyz/view/7e9e626f-10bb-5912-be50-87fb4f2ab1c3.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/71c6cf7b-6a76-542c-bd4d-c0bedef1782e.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/04/The-Cursed-Dead-Man-s-Prey-2021.jpg",The Cursed: Dead Man’s Prey (2021)
@@ -311,7 +311,7 @@ https://hlsp2p.xyz/view/71c6cf7b-6a76-542c-bd4d-c0bedef1782e.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/abaa4163-ec78-5755-ab88-a0705d44afd4.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/04/The-First-Omen-2024.jpg",The First Omen (2024) กำเนิดอาถรรพ์หมายเลข 6
@@ -321,7 +321,7 @@ https://hlsp2p.xyz/view/abaa4163-ec78-5755-ab88-a0705d44afd4.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/803d3f63-26cb-5a28-b615-b0c9a45d585d.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/04/Huesera-The-Bone-Woman-2022.jpg",Huesera The Bone Woman (2022) สิงร่างหักกระดูก
@@ -331,7 +331,7 @@ https://hlsp2p.xyz/view/803d3f63-26cb-5a28-b615-b0c9a45d585d.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/98c058f6-bf67-5841-ab13-5ef16344dce6.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/WT7cB1o7oQHv3yLOenp.jpg",Primeval (2007) โคตรเคี่ยมสะพรึงโลก
@@ -341,7 +341,7 @@ https://hlsp2p.xyz/view/98c058f6-bf67-5841-ab13-5ef16344dce6.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/13672b87-1d8f-5d94-98a7-fdaa62b12fa1.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/03/No-Way-Up-2024.jpg",No Way Up (2024) งาบคลั่งไฟลต์
@@ -351,7 +351,7 @@ https://hlsp2p.xyz/view/13672b87-1d8f-5d94-98a7-fdaa62b12fa1.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/345c865d-e159-59bb-925c-1e2a42bc784a.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/04/Tee-Yod-2023.jpg",ธี่หยด (2023) Death Whisperer
@@ -361,7 +361,7 @@ https://hlsp2p.xyz/view/345c865d-e159-59bb-925c-1e2a42bc784a.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/faec70f7-0166-5ac4-8942-9e5c5fd53b4d.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/10/Fortress-Sniper-s-Eye-%E0%B8%8A%E0%B8%B3%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%9B%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%99%E0%B8%A3%E0%B8%81-%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%8B%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B9%82%E0%B8%88%E0%B8%A1%E0%B8%95%E0%B8%B5-2022.jpg",Fortress: Sniper’s Eye (2022) ชำระแค้นป้อมนรก ปฏิบัติการซุ่มโจมตี
@@ -371,7 +371,7 @@ https://hlsp2p.xyz/view/faec70f7-0166-5ac4-8942-9e5c5fd53b4d.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/0f86e233-26e2-586d-aeab-f5be482cf53d.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/02/Ant-Man-and-the-Wasp-Quantumania-2023-%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%81%E0%B8%A1%E0%B8%99-%E0%B9%81%E0%B8%A5%E0%B8%B0-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%A7%E0%B8%AD%E0%B8%AA%E0%B8%9E%E0%B9%8C-%E0%B8%95%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%84%E0%B8%A7%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%A1.jpg",Ant-Man and the Wasp: Quantumania (2023) แอนท์-แมน และ เดอะ วอสพ์: ตะลุยมิติควอนตัม
@@ -381,7 +381,7 @@ https://hlsp2p.xyz/view/0f86e233-26e2-586d-aeab-f5be482cf53d.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/c205086d-424d-5bf0-aec4-6ae0341927f2.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/08/Blue-Beetle-2023.jpg",Blue Beetle (2023) บลู บีเทิล
@@ -391,7 +391,7 @@ https://hlsp2p.xyz/view/c205086d-424d-5bf0-aec4-6ae0341927f2.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/9a2ace38-4e55-56de-bcf4-85879d7029c8.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2019/12/Power-Rangers-2017-%E0%B8%9E%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%80%E0%B8%A3%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC.jpg",Power Rangers (2017) พาวเวอร์ เรนเจอร์ ฮีโร่ทีมมหากาฬ
@@ -401,7 +401,7 @@ https://hlsp2p.xyz/view/9a2ace38-4e55-56de-bcf4-85879d7029c8.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/8e964d56-59ce-53ea-abae-58515065682f.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/01/Sixty-Minutes-2024.jpg",Sixty Minutes (2024) 60 นาที
@@ -411,7 +411,7 @@ https://hlsp2p.xyz/view/8e964d56-59ce-53ea-abae-58515065682f.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/824a6a79-f377-5183-a70f-9f1c5d9b4981.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/01/The-Kitchen-2024.jpg",The Kitchen (2024) เดอะ คิทเช่น
@@ -421,7 +421,7 @@ https://hlsp2p.xyz/view/824a6a79-f377-5183-a70f-9f1c5d9b4981.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/33313b74-6d4a-566e-8edc-2c9e71eadd85.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2020/05/The-Exchange-2019-%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B9%82%E0%B8%88%E0%B8%A3.png",โจรปล้นโจร (2019) The Exchange
@@ -431,7 +431,7 @@ https://hlsp2p.xyz/view/33313b74-6d4a-566e-8edc-2c9e71eadd85.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/9a684e7b-cd50-5dc8-bb31-184bc06938ad.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/01/Mobile-Suit-Gundam-Narrative-2018.jpg",Mobile Suit Gundam Narrative (2018) โมบิลสูท กันดั้ม นาร์ราทีฟ
@@ -441,7 +441,7 @@ https://hlsp2p.xyz/view/9a684e7b-cd50-5dc8-bb31-184bc06938ad.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/6e8eba67-6a91-5f74-8d6d-43953d6f90ed.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/11/4king-2.jpg",4 KINGS 2 (2023) 4 คิงส์ 2
@@ -451,7 +451,7 @@ https://hlsp2p.xyz/view/6e8eba67-6a91-5f74-8d6d-43953d6f90ed.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/f2f52510-d646-535e-bad6-8a783d902c23.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/xxfVtUZk5P6Ome7j2Ov.jpg",The Rite (2011) คนไล่ผี
@@ -461,7 +461,7 @@ https://hlsp2p.xyz/view/f2f52510-d646-535e-bad6-8a783d902c23.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/71957eb6-235c-5a7e-8001-cfa31de8e99b.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2020/06/Guns-Akimbo-%E0%B9%82%E0%B8%97%E0%B8%A9%E0%B8%97%E0%B8%B5..%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87-2019.jpg",Guns Akimbo (2019) โทษที..มือพี่ไม่ว่าง
@@ -471,7 +471,7 @@ https://hlsp2p.xyz/view/71957eb6-235c-5a7e-8001-cfa31de8e99b.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/423d0a82-b299-528f-877b-fa53e2e6931c.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/08/Ne-Zha-Chi-Zha-Feng-Yun-%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%98%E0%B8%AD-2021.jpg",Ne Zha (Chi Zha Feng Yun) (2021) ซิ่งให้สุดหยุดที่เธอ
@@ -481,7 +481,7 @@ https://hlsp2p.xyz/view/423d0a82-b299-528f-877b-fa53e2e6931c.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/f03fd052-2b60-5d28-8463-c0d783acd499.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/01/Badland-Hunters-2024.jpg",Badland Hunters (2024) นักล่ากลางนรก
@@ -491,7 +491,7 @@ https://hlsp2p.xyz/view/f03fd052-2b60-5d28-8463-c0d783acd499.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/bea4faad-b92c-57ae-82f1-c50a2c32fea7.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/08/Young-Detective-Dee-Rise-of-the-Sea-Dragon-2013-Sub-TH.jpg",Young Detective Dee: Rise of the Sea Dragon (2013) ตี๋เหรินเจี๋ย ผจญกับดักเทพมังกร
@@ -501,7 +501,7 @@ https://hlsp2p.xyz/view/bea4faad-b92c-57ae-82f1-c50a2c32fea7.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/e2ec9cb1-40b3-5dfb-9937-495b61f5fefc.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/08/Detective-Dee-The-Four-Heavenly-Kings-2018.jpeg",Detective Dee: The Four Heavenly Kings (2018) ตี๋เหรินเจี๋ย ปริศนาพลิกฟ้า 4 จตุรเทพ
@@ -511,8 +511,8 @@ https://hlsp2p.xyz/view/e2ec9cb1-40b3-5dfb-9937-495b61f5fefc.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
-https://hlsp2p.xyz/view/e1f71778-5572-55c8-a7ee-f246bdc09c09.m3u8?vhost=streaming-hlsp2p.xyz
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://hlsp2p.xyz/view/30887f53-0ec6-5346-91a6-baa72f565f7c.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/05/Legend-Of-Detective-Dee-2023.png",Legend Of Detective Dee (2023) ตี๋เหรินเจี๋ย คลองมังกรผวา
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
@@ -521,7 +521,7 @@ https://hlsp2p.xyz/view/e1f71778-5572-55c8-a7ee-f246bdc09c09.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/f4af0a24-9300-5b86-95c6-2bc4fbecae37.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/01/The-Beekeeper-2024.jpg",The Beekeeper (2024) นรกเรียกพ่อ
@@ -531,7 +531,7 @@ https://hlsp2p.xyz/view/f4af0a24-9300-5b86-95c6-2bc4fbecae37.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/03b707f0-2405-5228-8207-a800066c2082.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/rSsyxcsTmpxmj6dqGlr.jpg",Conan the Barbarian (1982) โคแนน ยอดคนแดนเถื่อน
@@ -541,7 +541,7 @@ https://hlsp2p.xyz/view/03b707f0-2405-5228-8207-a800066c2082.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/893d50f1-bc90-5627-b70b-f36c1ceb0e72.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/u0aqSxEQ1ZmRWt1laBC.jpg",Conan the Barbarian (2011) โคแนน นักรบเถื่อน
@@ -551,7 +551,7 @@ https://hlsp2p.xyz/view/893d50f1-bc90-5627-b70b-f36c1ceb0e72.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/591f277b-680e-55b2-a658-a5cf5ba6dbe2.m3u8
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/02/Conan-the-Destroyer.png",Conan the Destroyer (1984) โคแนน ตอนถล่มวิหารเทพเจ้า
@@ -561,7 +561,7 @@ https://hlsp2p.xyz/view/591f277b-680e-55b2-a658-a5cf5ba6dbe2.m3u8
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/5cb508d2-c477-5393-8c63-1f46adb8722a.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/JxSmslDAi6HgVJ1Lwl5.jpg",A Chinese Ghost Story 3 (1991) โปเยโปโลเย เย้ยฟ้าแล้วก็ท้า ภาค 3
@@ -571,7 +571,7 @@ https://hlsp2p.xyz/view/5cb508d2-c477-5393-8c63-1f46adb8722a.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/7df9ec21-614d-5be8-86a1-758da4062a96.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/mFmJSrkDospLx5aZuNZ.jpg",A Chinese Ghost Story 2 (1990) โปเยโปโลเย ภาค 2
@@ -581,7 +581,7 @@ https://hlsp2p.xyz/view/7df9ec21-614d-5be8-86a1-758da4062a96.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/81115c2a-e735-59d5-a697-46e48fc72531.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/S9YQOrszMDnjW8kUf6q.jpg",A Chinese Ghost Story 1 (1987) โปเยโปโลเย ภาค 1
@@ -591,7 +591,7 @@ https://hlsp2p.xyz/view/81115c2a-e735-59d5-a697-46e48fc72531.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/53c9cf7f-c3e6-554d-9a42-17eb79c262ed.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/daYMSW0JBpzHWScdCTx.jpg",Zulu (2013) คู่หูล้างบางนรก
@@ -601,7 +601,7 @@ https://hlsp2p.xyz/view/53c9cf7f-c3e6-554d-9a42-17eb79c262ed.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/f3bf5f79-b29a-5bf2-991d-4444afb7ab52.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/02/ICHI-2008.png",ICHI (2008) อิชิ ดาบเด็ดเดี่ยว
@@ -611,7 +611,7 @@ https://hlsp2p.xyz/view/f3bf5f79-b29a-5bf2-991d-4444afb7ab52.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/f5b032d3-2195-528d-997c-d407bc1d38ad.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/Fvy8kKwb586VP4aQiUo.jpg",The Siege (1998) เดอะ ซีจจ์ ยุทธการวินาศกรรมข้ามแผ่นดิน
@@ -621,7 +621,7 @@ https://hlsp2p.xyz/view/f5b032d3-2195-528d-997c-d407bc1d38ad.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/0abd5a35-79dd-5bfa-afff-a7ca86895b0a.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/02/Congo-1995.png",Congo (1995) คองโก มฤตยูหยุดนรก
@@ -631,7 +631,7 @@ https://hlsp2p.xyz/view/0abd5a35-79dd-5bfa-afff-a7ca86895b0a.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/92c6d81b-1740-5d12-a2ac-b405e0bf81a4.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/11/The-Hunger-Games-The-Ballad-of-Songbirds-Snakes-2023.jpg",The Hunger Games: The Ballad of Songbirds & Snakes (2023) เดอะ ฮังเกอร์เกมส์ ปฐมบทเกมล่าเกม
@@ -641,7 +641,7 @@ https://hlsp2p.xyz/view/92c6d81b-1740-5d12-a2ac-b405e0bf81a4.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/3668953e-1045-5ea2-b518-453941e56f04.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/08/Out-For-Justice-1991.jpg",Out For Justice (1991) ทวงหนี้แบบยมบาล
@@ -651,7 +651,7 @@ https://hlsp2p.xyz/view/3668953e-1045-5ea2-b518-453941e56f04.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/b387af86-afdd-53e3-add0-42371a10651d.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/M7Q6oewNn5q81nJEze9.jpg",The Crow (1994) อีกาพญายม
@@ -661,7 +661,7 @@ https://hlsp2p.xyz/view/b387af86-afdd-53e3-add0-42371a10651d.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/3074860e-ecb7-534f-b628-63e49f3a4853.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/FC5qKMMzJElm8tnHnUf.jpg",Unleashed (2005) คนหมาเดือด
@@ -671,7 +671,7 @@ https://hlsp2p.xyz/view/3074860e-ecb7-534f-b628-63e49f3a4853.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/54ef0f8b-0e2f-5952-940f-e339681ac7f1.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/qQiE6wixJ9IyscGVGV9.jpg",Chappie (2015) จักรกลเปลี่ยนโลก
@@ -681,7 +681,7 @@ https://hlsp2p.xyz/view/54ef0f8b-0e2f-5952-940f-e339681ac7f1.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/b1c4f041-8449-5ccc-a542-d2dc0a54a9e6.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/DPY56XvGojlAbntvrlF.jpg",Kill Bill: Vol. 1 (2003) นางฟ้าซามูไร
@@ -691,7 +691,7 @@ https://hlsp2p.xyz/view/b1c4f041-8449-5ccc-a542-d2dc0a54a9e6.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/f27cb94d-03e2-59c6-8537-3e923932dabc.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/Se3wiqHoez5qYp58vDL.jpg",The Colony (2013) เมืองร้างนิคมสยอง
@@ -701,7 +701,7 @@ https://hlsp2p.xyz/view/f27cb94d-03e2-59c6-8537-3e923932dabc.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/8b3c0205-ed8e-54aa-905c-c913cf79c5ce.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/68PWgdaHmv5KroYT9lZ.jpg",The Last Castle (2001) กบฏป้อมทมิฬ
@@ -711,7 +711,7 @@ https://hlsp2p.xyz/view/8b3c0205-ed8e-54aa-905c-c913cf79c5ce.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/461baa7d-33f1-58cb-963c-174b3c217163.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/Z6UpTgtLJKr01v0J0LF.jpg",Planet Terror (2007) โคโยตี้ แข้งปืนกล
@@ -721,7 +721,7 @@ https://hlsp2p.xyz/view/461baa7d-33f1-58cb-963c-174b3c217163.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/88a83aff-0fce-52d6-93f4-2e8cc644479c.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/QMNbfTHTGL3MeptM1Yq.jpg",Snakes on a Plane (2006) เลื้อยฉก เที่ยวบินระทึก
@@ -731,7 +731,7 @@ https://hlsp2p.xyz/view/88a83aff-0fce-52d6-93f4-2e8cc644479c.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/27a335b6-d548-5e86-9eed-16d411f1f7b8.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/cDA431IXz2AkBRYBG3Z.jpg",Behind Enemy Lines (2001) แหกมฤตยูแดนข้าศึก
@@ -741,7 +741,7 @@ https://hlsp2p.xyz/view/27a335b6-d548-5e86-9eed-16d411f1f7b8.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/fff55181-3acd-5aca-b2f5-9009506da379.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2020/07/Mad-Max-Fury-Road-2015.jpg",Mad Max 4: Fury Road (2015) แมด แม็กซ์: ถนนโลกันตร์
@@ -751,7 +751,7 @@ https://hlsp2p.xyz/view/fff55181-3acd-5aca-b2f5-9009506da379.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/310e4559-4788-5fc3-85da-6eceb78acc53.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/02/Mantra-Warrior-The-Legend-of-the-Eight-Moons-2024.jpg",Mantra Warrior: The Legend of The Eight Moons (2023) นักรบมนตรา ตำนานแปดดวงจันทร์
@@ -761,7 +761,7 @@ https://hlsp2p.xyz/view/310e4559-4788-5fc3-85da-6eceb78acc53.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/5ce1e28c-18c8-5d43-8c08-18f6833dfb02.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/or2wmLt4FsT9Y3Cpg2B.jpg",Daylight (1996) ฝ่านรกใต้โลก
@@ -771,7 +771,7 @@ https://hlsp2p.xyz/view/5ce1e28c-18c8-5d43-8c08-18f6833dfb02.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/db4c623a-8047-54e2-a42d-676d1abd60fb.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/02/Moscow-Mission-2023.jpg",Moscow Mission (2023) ภารกิจท้านรก
@@ -781,7 +781,7 @@ https://hlsp2p.xyz/view/db4c623a-8047-54e2-a42d-676d1abd60fb.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/300bcad2-f13d-5f4e-a40e-950c66bfbfb6.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/4dFGDD5Hj0yBwLlxWeo.jpg",Above the Law (1988) นิโก้ตำรวจหมื่นฟาเรนไฮต์
@@ -791,7 +791,7 @@ https://hlsp2p.xyz/view/300bcad2-f13d-5f4e-a40e-950c66bfbfb6.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/3c10ef83-1340-5114-8719-43ab2e59d407.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/02/Code-8-Part-II-2024.jpg",Code 8 Part II (2024) ล่าคนโคตรพลัง 2
@@ -801,7 +801,7 @@ https://hlsp2p.xyz/view/3c10ef83-1340-5114-8719-43ab2e59d407.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/03beb140-09fe-5f2b-b1b0-a81f2011ef22.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2020/05/Code-8-2019.jpg",Code 8 (2020) ล่าคนโคตรพลัง
@@ -811,7 +811,7 @@ https://hlsp2p.xyz/view/03beb140-09fe-5f2b-b1b0-a81f2011ef22.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/baec9fb6-0fd1-5c21-b785-eb781fe32ed0.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/TCmc9kykis4xFPJVG1m.jpg",Young & Dangerous 3 (1996) กู๋หว่าไจ๋ 3 ใหญ่ครองเมือง
@@ -821,7 +821,7 @@ https://hlsp2p.xyz/view/baec9fb6-0fd1-5c21-b785-eb781fe32ed0.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/f714fa63-93fc-5981-997d-8cc8ff1b83d3.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/KQnVIxGzJXL0BNgzuG4.jpg",Young & Dangerous 4 (1997) กู๋หว่าไจ๋ 4 1977 อันธพาลกวนเมือง
@@ -831,7 +831,7 @@ https://hlsp2p.xyz/view/f714fa63-93fc-5981-997d-8cc8ff1b83d3.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/bc248ba5-5c1c-5658-b138-27f7a166062f.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/08/Young-Dangerous-6-Born-to-Be-King-2000-%E0%B8%81%E0%B8%B9%E0%B9%8B%E0%B8%AB%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B9%84%E0%B8%88%E0%B9%8B-6-%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B9%88%E0%B8%AD.jpg",Young & Dangerous 6 Born to Be King (2000) กู๋หว่าไจ๋ 6 เกิดมาเป็นเจ้าพ่อ
@@ -841,7 +841,7 @@ https://hlsp2p.xyz/view/bc248ba5-5c1c-5658-b138-27f7a166062f.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/e7a7658d-9435-52c4-9504-e8a0bbbfcd93.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/deenMxl89IgLc0WMJFO.jpg",Wai peng nak leng kha san (2014) วัยเป้ง นักเลงขาสั้น
@@ -851,7 +851,7 @@ https://hlsp2p.xyz/view/e7a7658d-9435-52c4-9504-e8a0bbbfcd93.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/475ada49-fb31-5156-a404-0ee98d8f7e8e.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/01/Hunt-2022.jpg",Hunt (2022) ล่าคน ปลอมคน
@@ -861,7 +861,7 @@ https://hlsp2p.xyz/view/475ada49-fb31-5156-a404-0ee98d8f7e8e.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/06eb72e1-d871-5d6d-8fcc-3c3d4d021029.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/03/The-Advocate-A-Missing-Body-2015.jpg",The Advocate A Missing Body (2015)
@@ -871,7 +871,7 @@ https://hlsp2p.xyz/view/06eb72e1-d871-5d6d-8fcc-3c3d4d021029.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/855fc556-4111-53c6-82cf-801a60359d96.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2021/01/Resident-Evil-5-Retribution-2012-%E0%B8%9C%E0%B8%B5%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B0-5-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%84%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%99%E0%B8%A3%E0%B8%81.jpg",Resident Evil 5: Retribution (2012) ผีชีวะ 5 สงครามไวรัสล้างนรก
@@ -881,7 +881,7 @@ https://hlsp2p.xyz/view/855fc556-4111-53c6-82cf-801a60359d96.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/d41ff9c4-de31-5d8c-a76b-018d62b81e48.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/12/Mafia-Mamma-2023.jpg",Mafia Mamma (2023) มาเฟีย มัมมา
@@ -891,7 +891,7 @@ https://hlsp2p.xyz/view/d41ff9c4-de31-5d8c-a76b-018d62b81e48.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/be37ba08-dbe7-5966-8fa4-916207b1580f.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/12/Blindspotting-2018-%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%AB%E0%B8%99.jpg",Blindspotting (2018) ที่นี่ประเทศไหน
@@ -901,7 +901,7 @@ https://hlsp2p.xyz/view/be37ba08-dbe7-5966-8fa4-916207b1580f.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/1971aade-6f9a-56dd-83b8-1d3eb6020e92.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2021/07/Black-Widow-2021.jpg",Black Widow (2021) แบล็ค วิโดว์
@@ -911,7 +911,7 @@ https://hlsp2p.xyz/view/1971aade-6f9a-56dd-83b8-1d3eb6020e92.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/fa9ab54c-0f7c-5eff-853f-8992d67a59f3.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/03/Damsel-2024.jpg",Damsel (2024) ดรุณีผู้พิชิต
@@ -921,7 +921,7 @@ https://hlsp2p.xyz/view/fa9ab54c-0f7c-5eff-853f-8992d67a59f3.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/0856e968-200e-5bd8-a5a4-7dc99d7dbb39.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/OGKdIeR2lgcvFfJMCER.jpg",Young & Dangerous 2 (1996) กู๋หว่าไจ๋ 2
@@ -931,7 +931,7 @@ https://hlsp2p.xyz/view/0856e968-200e-5bd8-a5a4-7dc99d7dbb39.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/dde2803b-1904-58eb-bfa0-877777992869.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/PfXj4l1OoREj5q53TXS.jpg",Young & Dangerous 5 (1998) กู๋หว่าไจ๋ 5 ฟัดใหญ่เมืองตะลึง
@@ -941,7 +941,7 @@ https://hlsp2p.xyz/view/dde2803b-1904-58eb-bfa0-877777992869.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/3b094451-0f9b-5853-89e3-6b28501479b3.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/4AipdZGzzSNZ8HekqAJ.jpg",The Lost Choices (2015)
@@ -951,7 +951,7 @@ https://hlsp2p.xyz/view/3b094451-0f9b-5853-89e3-6b28501479b3.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/2460a233-5388-5235-b93c-34fcbb1f0781.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/10/Shin-Ultraman-2022-Sub-TH.jpg",Shin Ultraman (2022) ชิน อุลตร้าแมน
@@ -961,7 +961,7 @@ https://hlsp2p.xyz/view/2460a233-5388-5235-b93c-34fcbb1f0781.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/ceca6434-660f-525e-9ffd-b1d25aea5d7f.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2020/01/The-Rundown-2003-%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%84%E0%B8%99-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%82%E0%B8%B8%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81.png",The Rundown (2003) โคตรคนล่าขุมทรัพย์ป่านรก
@@ -971,7 +971,7 @@ https://hlsp2p.xyz/view/ceca6434-660f-525e-9ffd-b1d25aea5d7f.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/edefaa54-3e8c-5e2e-9a91-bdad27be63c2.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/03/24-Hours-with-Gaspar-2024.jpg",24 Hours with Gaspar (2024) 24 ชั่วโมงกับแกสปาร์
@@ -981,7 +981,7 @@ https://hlsp2p.xyz/view/edefaa54-3e8c-5e2e-9a91-bdad27be63c2.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/ea5173bf-7a31-5e73-9368-a9268296ab9c.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/10/Operation-Red-Sea-2018-Sub-TH.jpg",Operation Red Sea (2018) ยุทธภูมิทะเลแดง
@@ -991,7 +991,7 @@ https://hlsp2p.xyz/view/ea5173bf-7a31-5e73-9368-a9268296ab9c.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/cb9d33ad-d708-5209-9191-181b760111dd.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/Wawy4BUUedapGaLcyWr.jpg",The Fifth Element (1997) รหัส 5 คนอึดทะลุโลก
@@ -1001,7 +1001,7 @@ https://hlsp2p.xyz/view/cb9d33ad-d708-5209-9191-181b760111dd.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/b10a55ce-d96e-5d91-ad16-e34e8ff73e67.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/URt6r2Q4duKIvgXTRNh.jpg",Young & Dangerous (1996) กู๋หว่าไจ๋ มังกรฟัดโลก 1
@@ -1011,7 +1011,7 @@ https://hlsp2p.xyz/view/b10a55ce-d96e-5d91-ad16-e34e8ff73e67.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/fb7a1d1e-78ff-5985-a4ed-59592c0099f2.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/12/Napoleon-2023.jpg",Napoleon (2023) จักรพรรดินโปเลียน
@@ -1021,7 +1021,7 @@ https://hlsp2p.xyz/view/fb7a1d1e-78ff-5985-a4ed-59592c0099f2.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/22f630e1-8ff9-5485-9b66-b94947920db3.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/S5OWnYTB8m654wplU9r.jpg",Crime Kings (1998) เสือ โจรพันธุ์เสือ
@@ -1031,7 +1031,7 @@ https://hlsp2p.xyz/view/22f630e1-8ff9-5485-9b66-b94947920db3.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/6b54e948-6965-5dc0-888b-9d6ac07f4df7.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/09/Assassin-s-Creed-2016.jpg",Assassin’s Creed (2016) อัสแซสซินส์ ครีด
@@ -1041,7 +1041,7 @@ https://hlsp2p.xyz/view/6b54e948-6965-5dc0-888b-9d6ac07f4df7.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/542a9b18-ec2d-55b8-8518-89c6bd5c9891.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/RHcFOjJafzP7aWo1xAQ.jpg",K-19: The Widowmaker (2002) ลึกมฤตยู นิวเคลียร์ล้างโลก
@@ -1051,7 +1051,7 @@ https://hlsp2p.xyz/view/542a9b18-ec2d-55b8-8518-89c6bd5c9891.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/1108d4d8-9e01-5792-a43d-d8fb15923cad.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/OdQRE3fcmGyPMDS0pgR.jpg",Last Knights (2015) อัศวินคนสุดท้าย
@@ -1061,7 +1061,7 @@ https://hlsp2p.xyz/view/1108d4d8-9e01-5792-a43d-d8fb15923cad.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/4d3f5f98-a0d0-5aab-baf2-b0085a9baa34.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/2rPm3uahloeasGRfKjy.jpg",Bulletproof Monk (2003) คัมภีร์หยุดกระสุน
@@ -1071,7 +1071,7 @@ https://hlsp2p.xyz/view/4d3f5f98-a0d0-5aab-baf2-b0085a9baa34.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/0b081776-00d5-55aa-840d-228af581bfb1.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/02/Madame-Web-2024.jpg",Werewolf by Night In Color (2023)
@@ -1081,7 +1081,7 @@ https://hlsp2p.xyz/view/0b081776-00d5-55aa-840d-228af581bfb1.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/2c89c6f9-95d1-5390-b7a1-1c292a838485.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/02/Madame-Web-2024.jpg",Madame Web (2024) มาดามเว็บ
@@ -1091,7 +1091,7 @@ https://hlsp2p.xyz/view/2c89c6f9-95d1-5390-b7a1-1c292a838485.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/b969263f-2cd8-59ea-b720-1459aa3e5ace.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/03/Demon-Slayer-Kimetsu-no-Yaiba-To-the-Hashira-Training-2024.jpg",Demon Slayer Kimetsu no Yaiba To the Hashira Training (2024) ดาบพิฆาตอสูร เดอะมูฟวี่ ปาฏิหาริย์แห่งสายสัมพันธ์ สู่การสั่งสอนของเสาหลัก
@@ -1101,7 +1101,7 @@ https://hlsp2p.xyz/view/b969263f-2cd8-59ea-b720-1459aa3e5ace.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/3839eb1d-b9ab-5385-a1f6-3c0366b50f68.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2020/11/Against-the-dark-%E0%B8%84%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B9%81%E0%B8%A7%E0%B8%A1%E0%B9%84%E0%B8%9E%E0%B8%A3%E0%B9%8C-2009.jpg",Against the dark (2009) คนระห่ำล้างพันธุ์แวมไพร์
@@ -1111,7 +1111,7 @@ https://hlsp2p.xyz/view/3839eb1d-b9ab-5385-a1f6-3c0366b50f68.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/2c7ace0b-1dca-55c2-b574-49f0e8fa7239.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/01/Miraculous-Ladybug-Cat-Noir-The-Movie-2023.jpg",Miraculous Ladybug & Cat Noir The Movie (2023) ฮีโร่มหัศจรรย์ เลดี้บัก และ แคทนัวร์
@@ -1121,13 +1121,13 @@ https://hlsp2p.xyz/view/2c7ace0b-1dca-55c2-b574-49f0e8fa7239.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/98cbf562-d013-5338-aeb3-d263191de785.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/06/Ride-On-2023.jpg",Ride On (2023) ควบสู้ฟัด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/4b5d99b8-8392-5ea5-ac0d-dba321c04069.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/03/The-Point-Men-%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%84%E0%B9%80%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B8%95%E0%B8%B2%E0%B8%A2-%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B9%84%E0%B8%96%E0%B9%88%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81-2023.jpg",The Point Men (2023) ล็อคเป้าตาย ค่าไถ่หยุดโลก
@@ -1137,7 +1137,7 @@ https://hlsp2p.xyz/view/4b5d99b8-8392-5ea5-ac0d-dba321c04069.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/20517fce-31bd-562b-9747-d4f0101a2078.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/08/Khun-pan-3-2023.jpg",Khun pan 3 (2023) ขุนพันธ์ 3
@@ -1147,7 +1147,7 @@ https://hlsp2p.xyz/view/20517fce-31bd-562b-9747-d4f0101a2078.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/6b7958be-9bdd-5cd9-82dd-1973915f55c4.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/dUAl3Da7vvZkynSQKMP.jpg",The Long Way Home (2015) หนุ่มนักเด้า เอาแรง
@@ -1157,7 +1157,7 @@ https://hlsp2p.xyz/view/6b7958be-9bdd-5cd9-82dd-1973915f55c4.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/893f38d2-19e8-56bf-9247-471930947b84.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/YBcJN5aOEGEw1gkYkAz.jpg",The Place Beyond the Pines (2012) พลิกชะตาท้าหัวใจระห่ำ
@@ -1167,7 +1167,7 @@ https://hlsp2p.xyz/view/893f38d2-19e8-56bf-9247-471930947b84.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/44099ea6-c4b4-5d95-a84d-9916a0f9d11b.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/11/The-Marvels-2023.jpg",The Marvels (2023) เดอะ มาร์เวลส์
@@ -1177,7 +1177,7 @@ https://hlsp2p.xyz/view/44099ea6-c4b4-5d95-a84d-9916a0f9d11b.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/d9c22791-dbf4-503b-b2af-6834089fc97c.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/02/Argylle-2024.png",Argylle (2024) อาร์ไกล์ ยอดสายลับ
@@ -1187,7 +1187,7 @@ https://hlsp2p.xyz/view/d9c22791-dbf4-503b-b2af-6834089fc97c.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/8fe2a96e-e3f8-5eac-a911-aa9c5011c508.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/03/Dune-Part-Two-2024.jpg",Dune Part Two (2024) ดูน ภาคสอง
@@ -1197,7 +1197,7 @@ https://hlsp2p.xyz/view/8fe2a96e-e3f8-5eac-a911-aa9c5011c508.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/97befba2-4c5b-56b6-894a-c40551efe5cd.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/03/Godzilla-x-Kong-The-New-Empire-2024.jpg",Godzilla x Kong: The New Empire (2024) ก๊อตซิล่าปะทะคอง 2 อาณาจักรใหม่
@@ -1207,7 +1207,7 @@ https://hlsp2p.xyz/view/97befba2-4c5b-56b6-894a-c40551efe5cd.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/14d1e782-c83d-5afc-86da-2dcb833e8ae4.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/03/Love-Lies-Bleeding-2024.jpg",Love Lies Bleeding (2024) รัก ร้าย ร้าย
@@ -1217,7 +1217,7 @@ https://hlsp2p.xyz/view/14d1e782-c83d-5afc-86da-2dcb833e8ae4.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/87d64393-a7ee-562d-ad00-2acdab9845b9.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/03/The-Wages-of-Fear-2024.jpg",The Wages of Fear (2024)
@@ -1227,7 +1227,7 @@ https://hlsp2p.xyz/view/87d64393-a7ee-562d-ad00-2acdab9845b9.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/8a2d0484-b12b-5087-a152-e873a3bcf913.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/03/Heart-of-the-Hunter-2024.jpg",Heart of the Hunter (2024) หัวใจนักล่า
@@ -1237,7 +1237,7 @@ https://hlsp2p.xyz/view/8a2d0484-b12b-5087-a152-e873a3bcf913.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/c982385d-bd80-581e-a5d2-5ce76a58af8e.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/07/Dragon-Ball-The-Magic-Begins-1991.jpg",Dragon Ball The Magic Begins (1991) ดราก้อนบอล ศึกอภินิหาร 7 ลูกแก้วมังกร
@@ -1247,7 +1247,7 @@ https://hlsp2p.xyz/view/c982385d-bd80-581e-a5d2-5ce76a58af8e.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/e09c5c5c-5972-5fb6-8ed0-a82970f8f190.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/01/The-Bricklayer-2023.jpg",The Bricklayer (2023) เดอะ บลิคเลเยอร์
@@ -1257,7 +1257,7 @@ https://hlsp2p.xyz/view/e09c5c5c-5972-5fb6-8ed0-a82970f8f190.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/3e6c51b8-446a-57d0-a4fc-b8c1c5d66df7.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2021/03/Godzilla-vs.-Kong-2021.jpg",Godzilla vs. Kong (2021) ก็อดซิลล่า ปะทะ คอง
@@ -1267,7 +1267,7 @@ https://hlsp2p.xyz/view/3e6c51b8-446a-57d0-a4fc-b8c1c5d66df7.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/63e6d744-a225-55f3-8c27-7da7af27c7b8.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2019/04/thumb_2584.jpg",Avengers: Endgame (2019) อเวนเจอร์ส: เผด็จศึก
@@ -1277,7 +1277,7 @@ https://hlsp2p.xyz/view/63e6d744-a225-55f3-8c27-7da7af27c7b8.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/99cde5a0-be65-57c9-83a5-b344e17dd409.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/OGtMzJPfQ9YVPT9IBzu.jpg",Detective K: Secret of Virtuous Widow (2011) สืบลับ! ตับแลบ!!!
@@ -1287,7 +1287,7 @@ https://hlsp2p.xyz/view/99cde5a0-be65-57c9-83a5-b344e17dd409.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/f25d619a-c6ff-541c-a7a5-8c6e99ecd3af.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2020/05/The-Sorcerer-s-Apprentice-2010.jpg",The Sorcerer’s Apprentice (2010) ศึกอภินิหารพ่อมดถล่มโลก
@@ -1297,7 +1297,7 @@ https://hlsp2p.xyz/view/f25d619a-c6ff-541c-a7a5-8c6e99ecd3af.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/0c4a00bb-dda1-5f3a-933b-09a922211c48.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2020/08/The-Lone-Ranger-2013.jpg",The Lone Ranger (2013) เดอะ โลนเรนเจอร์ หน้ากากพิฆาตอธรรม
@@ -1307,7 +1307,7 @@ https://hlsp2p.xyz/view/0c4a00bb-dda1-5f3a-933b-09a922211c48.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/d79ca51d-520f-512f-9993-2043219fbe88.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/YIMghpAbMxpr1KmvZhQ.jpg",Hero (2002) ฮีโร่
@@ -1317,7 +1317,7 @@ https://hlsp2p.xyz/view/d79ca51d-520f-512f-9993-2043219fbe88.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/54efb9a2-b346-5302-a42d-541a08cc44e5.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/02/The-Thousand-Faces-of-Dunjia-2-2022.jpg",The Thousand Faces of Dunshu 2 (2022) ผู้พิทักษ์หมัดเทวดา 2
@@ -1327,7 +1327,7 @@ https://hlsp2p.xyz/view/54efb9a2-b346-5302-a42d-541a08cc44e5.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/ecffe99a-88dd-583a-afc5-9ee9212efa42.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/sYbEnItdIQYyZe2EbFh.jpg",World War Z (2013) มหาวิบัติสงคราม Z
@@ -1337,7 +1337,7 @@ https://hlsp2p.xyz/view/ecffe99a-88dd-583a-afc5-9ee9212efa42.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/54bca188-738d-5d92-b22a-b8826abdb258.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/03/Road-House-2024.jpg",Road House (2024) คนเดือดบวกเมืองเถื่อน
@@ -1347,7 +1347,7 @@ https://hlsp2p.xyz/view/54bca188-738d-5d92-b22a-b8826abdb258.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/2525a507-3239-5c9e-8414-481b455aab94.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/01/The-Spy-Gone-North-2018.jpg",The Spy Gone North (2018)
@@ -1357,7 +1357,7 @@ https://hlsp2p.xyz/view/2525a507-3239-5c9e-8414-481b455aab94.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/db8efda5-929f-576a-ba58-09f8f8ba15df.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2020/03/The-Brave-One-2007.jpg",THE BRAVE ONE (2007) เดอะ เบรฟ วัน หัวใจเธอต้องกล้า
@@ -1367,7 +1367,7 @@ https://hlsp2p.xyz/view/db8efda5-929f-576a-ba58-09f8f8ba15df.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/c52a8e4b-1c79-5db6-8f19-1cd47dc438c3.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/12/Aquaman-and-the-Lost-Kingdom-2023.jpg",AQUAMAN AND THE LOST KINGDOM (2023) อควาแมน กับอาณาจักรสาบสูญ
@@ -1377,7 +1377,7 @@ https://hlsp2p.xyz/view/c52a8e4b-1c79-5db6-8f19-1cd47dc438c3.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/5d692eb4-1ec0-55bc-9395-232c4e307ca7.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/07/Indiana-Jones-And-The-Dial-Of-Destiny-2023.jpg",INDIANA JONES AND THE DIAL OF DESTINY (2023) อินเดียน่า โจนส์ กับกงล้อแห่งโชคชะตา
@@ -1387,7 +1387,7 @@ https://hlsp2p.xyz/view/5d692eb4-1ec0-55bc-9395-232c4e307ca7.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/b02cd836-731b-52bc-a9fb-0018993a3bbc.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTExPdQzFmx0Z6p8X3SEv4JAn9a7sza9MJhSEjXpQqW3g&s",THE LAST HOUSE ON THE LEFT (2009) วิมานนรกล่าเดนคน
@@ -1399,7 +1399,7 @@ https://hlsp2p.xyz/view/b02cd836-731b-52bc-a9fb-0018993a3bbc.m3u8?vhost=streamin
 #EXTVLCOPT:http-get=https://www.037hdmovie.com/
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=480x360,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=480x360,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/c0675d02-4202-5d8e-aa2e-66eab8d4b849.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB/master/LoGo/Screenshot_2024_0331_002123.jpg",DRAGON BALL Z BATTLE OF GODS 2014
@@ -1409,7 +1409,7 @@ https://hlsp2p.xyz/view/c0675d02-4202-5d8e-aa2e-66eab8d4b849.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/0fd1b074-275c-53ac-8a05-655795bec6fb.m3u8?vhost=streaming-hlsp2p.xyz
 
 
@@ -1420,7 +1420,7 @@ https://hlsp2p.xyz/view/0fd1b074-275c-53ac-8a05-655795bec6fb.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/f6088039-34d6-5d5b-ad9e-f7d7b6708f0f.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB/master/LoGo/Screenshot_2024_0330_155231.jpg",DRAGON BALL Z RESURRECTION ‘F’ (2015)
@@ -1430,7 +1430,7 @@ https://hlsp2p.xyz/view/f6088039-34d6-5d5b-ad9e-f7d7b6708f0f.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/c53b959f-2807-5bd8-8aeb-0d71ce393452.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://raw.githubusercontent.com/kuroshibin/TV-WEB/master/LoGo/Screenshot_2024_0331_143733.jpg",BULLETPROOF (1996) คู่ระห่ำ ซ่าส์ท้านรก
@@ -1440,7 +1440,7 @@ https://hlsp2p.xyz/view/c53b959f-2807-5bd8-8aeb-0d71ce393452.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/cf7461d5-88d5-5756-b5ae-b795b87f7a77.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/07/Dragon-Ball-Z-The-Movie-Explosion-of-Dragon-Punch-1995.jpg",DRAGON BALL Z WRATH OF THE DRAGON (1995) ฤทธิ์หมัดมังกรถล่มโลก
@@ -1450,7 +1450,7 @@ https://hlsp2p.xyz/view/cf7461d5-88d5-5756-b5ae-b795b87f7a77.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/4d5543e4-429c-5f5a-aee6-58fad1a992f6.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/07/Dragon-Ball-Z-The-Movie-Fusion-Reborn-1995.jpg",DRAGON BALL Z THE MOVIE FUSION REBORN (1995) ศึกฟิวชั่นคืนชีพ โงจิต้าปรากฏตัว
@@ -1460,7 +1460,7 @@ https://hlsp2p.xyz/view/4d5543e4-429c-5f5a-aee6-58fad1a992f6.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/4bbcaf25-1ca2-5153-9443-94f746cf24ca.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/07/Dragon-Ball-Z-The-Movie-Bio-Broly-1994.jpg",DRAGON BALL Z THE MOVIE BIO-BROLY (1994) การแก้แค้นครั้งสุดท้ายของโบรลี่
@@ -1470,7 +1470,7 @@ https://hlsp2p.xyz/view/4bbcaf25-1ca2-5153-9443-94f746cf24ca.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/429e14e2-5d7a-542e-b5b1-1804c695775f.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/07/Dragon-Ball-Z-The-Movie-Broly-Second-Coming-1994.jpg",DRAGON BALL Z THE MOVIE BROLY SECOND COMING (1994) การกลับมาของโบรลี่
@@ -1480,7 +1480,7 @@ https://hlsp2p.xyz/view/429e14e2-5d7a-542e-b5b1-1804c695775f.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/e7b93b3c-9d0a-5cf1-bbc7-4f28d47301bb.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/07/Dragon-Ball-Z-The-Movie-Bojack-Unbound-1993.jpg",DRAGON BALL Z THE MOVIE BOJACK UNBOUND (1993) ฝ่าวิกฤติกาแล็คซี่
@@ -1490,7 +1490,7 @@ https://hlsp2p.xyz/view/e7b93b3c-9d0a-5cf1-bbc7-4f28d47301bb.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/c98cf13e-f07a-5689-98d6-cab95e49a85b.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/07/Dragon-Ball-Z-The-Movie-Broly-The-Legendary-Super-Saiyan-1993.jpg",DRAGON BALL Z THE MOVIE BROLY-THE LEGENDARY SUPER SAIYAN (1993) โบรลี่ ซูปเปอร์ไซย่าในตำนาน
@@ -1500,7 +1500,7 @@ https://hlsp2p.xyz/view/c98cf13e-f07a-5689-98d6-cab95e49a85b.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/6ffb699b-f0a1-5e2c-bae0-b55ca583665a.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/07/Dragon-Ball-Z-The-Movie-Super-Android-13-1992.jpg",DRAGON BALL Z THE MOVIE SUPER ANDROID 13 (1992) ศึกมนุษย์ดัดแปลงหมายเลข 13
@@ -1510,7 +1510,7 @@ https://hlsp2p.xyz/view/6ffb699b-f0a1-5e2c-bae0-b55ca583665a.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/43c94d5b-8f9c-5324-84cf-19a4faeedb93.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/07/Dragon-Ball-Z-The-Movie-The-Return-of-Cooler-1992.jpg",DRAGON BALL Z THE MOVIE THE RETURN OF COOLER (1992) การกลับมาของคูลเลอร์
@@ -1520,7 +1520,7 @@ https://hlsp2p.xyz/view/43c94d5b-8f9c-5324-84cf-19a4faeedb93.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/b87ba6db-4d4a-54f7-aa82-a6410c9c4af9.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/07/Dragon-Ball-Z-The-Movie-Coolers-Revenge-1991.jpg",DRAGON BALL Z THE MOVIE COOLER’S REVENGE (1991) การแก้แค้นของคูลเลอร์
@@ -1530,7 +1530,7 @@ https://hlsp2p.xyz/view/b87ba6db-4d4a-54f7-aa82-a6410c9c4af9.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/c5d1e7ae-a8d2-5bd1-89ec-649478f24cd3.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/07/Dragon-Ball-Z-The-Movie-Lord-Slug-1991.jpg",DRAGON BALL Z THE MOVIE LORD SLUG (1991) ศึกซูปเปอร์ไซย่าปะทะซูปเปอร์นาแม็ก
@@ -1540,7 +1540,7 @@ https://hlsp2p.xyz/view/c5d1e7ae-a8d2-5bd1-89ec-649478f24cd3.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/faeaad11-0700-5730-8429-3d6c1296636f.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/07/Dragon-Ball-Z-The-Movie-The-Tree-of-Might-1990.jpg",DRAGON BALL Z THE MOVIE THE TREE OF MIGHT (1990) ศึกสะท้านพิภพ
@@ -1550,7 +1550,7 @@ https://hlsp2p.xyz/view/faeaad11-0700-5730-8429-3d6c1296636f.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/8ee26457-67b4-5e50-9dea-a705d97419f2.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/07/Dragon-Ball-Z-The-Movie-The-Worlds-Strongest-1990.jpg",DRAGON BALL Z THE MOVIE THE WORLD’S STRONGEST (1990) หนึ่งในใต้หล้า
@@ -1560,7 +1560,7 @@ https://hlsp2p.xyz/view/8ee26457-67b4-5e50-9dea-a705d97419f2.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/8e3ecaec-c21d-5680-9e42-c1c1949c5f76.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/07/Dragon-Ball-Z-The-Movie-Dead-Zone-1989.jpg",DRAGON BALL Z THE MOVIE DEAD ZONE (1989) โกฮังกลับมาแล้ว
@@ -1570,6 +1570,6 @@ https://hlsp2p.xyz/view/8e3ecaec-c21d-5680-9e42-c1c1949c5f76.m3u8?vhost=streamin
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/ccd0bb68-93d2-5e0f-b78b-37d243dc13d9.m3u8?vhost=streaming-hlsp2p.xyz
 #EXT-X-ENDLIST
