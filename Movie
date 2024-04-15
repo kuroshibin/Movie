@@ -21,7 +21,7 @@
 #EXTVLCOPT:http-X-Forward-Host=hlsp2p.xyz
 #EXTVLCOPT:http-connection=Keep-Alive
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1640480,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://hlsp2p.xyz/view/4bcbbdc1-b3ce-509e-9652-06b7ffa11244.m3u8?vhost=streaming-hlsp2p.xyz
 
 #EXTINF:-1 group-title="หนังสยองขวัญ" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/01/Haunting-of-the-Queen-Mary-2023.jpg",Haunting of the Queen Mary (2023) เรือผีปีศาจ
