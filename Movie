@@ -40,23 +40,71 @@
 
 
 
+#EXTINF:-1 group-title="หนังสงคราม" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/The-Ministry-of-Ungentlemanly-Warfare-2024-%E0%B9%81%E0%B8%AA%E0%B8%9A%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%8A%E0%B8%99%E0%B8%84%E0%B8%99%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81-187x269.jpg",The Ministry of Ungentlemanly Warfare (2024) แสบจารชนคนพลิกโลก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com:443/m3u8/5a3c10b75badb453e24f56cc/5a3c10b75badb453e24f56cc438.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="หนังสงคราม" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Wolf-Pack-2022-%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3-%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%B1%E0%B8%A2-187x269.jpg",Wolf Pack (2022) ฝ่ายุทธการ โคตรทีมมหาประลัย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/6d65aef63b2fa6eeccc14e89/6d65aef63b2fa6eeccc14e89.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="หนังสงคราม" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Kingdom-The-Movie-Kingudamu-2019-%E0%B8%84%E0%B8%B4%E0%B8%87%E0%B8%94%E0%B8%AD%E0%B8%A1-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88-187x269.jpg",Kingdom The Movie Kingudamu (2019) คิงดอม เดอะ มูฟวี่
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/21b52aff7a2d9cf3a14cd324/21b52aff7a2d9cf3a14cd324.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="หนังสงคราม" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Oba-The-Last-Samurai-2011-%E0%B9%82%E0%B8%AD%E0%B8%9A%E0%B8%B0-%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%8B%E0%B8%B2%E0%B8%A1%E0%B8%B9%E0%B9%84%E0%B8%A3-187x269.jpg",The Last Samurai (2011) โอบะ ร้อยเอกซามูไร
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/e3558e3fb462390ed84246f0/e3558e3fb462390ed84246f0.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="หนังสงคราม" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/08/American-Sniper-2014-Sub-TH.jpg",AMERICAN SNIPER (2014) สไนเปอร์มือพระกาฬ แห่งประวัติศาสตร์อเมริกา
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://hlsp2p.xyz/view/0de28c10-028d-5e61-a1c5-3fdee69ad327.m3u8?vhost=streaming-main.24playerhd.com
 
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="ภาพยนตร์แอ็คชั่น" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/Ghostbusters-5-Frozen-Empire-2024-%E0%B9%82%E0%B8%81%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%9A%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA-%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A2%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87-187x269.jpg",Ghostbusters 5 Frozen Empire (2024) โกสต์บัสเตอร์ส มหันตภัยเมืองเยือกแข็ง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/8beeefc17e86f8b92650655d/8beeefc17e86f8b92650655d.m3u8?vhost=streaming-main.24playerhd.com
 
 #EXTINF:-1 group-title="หนังสงคราม" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Sniper-1993-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99-187x269.jpg",Sniper (1993) นักฆ่าเลือดเย็น
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
