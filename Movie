@@ -43,23 +43,71 @@
 
 
 
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/A-Sound-Of-Thunder-2005-187x269.jpg",A Sound Of Thunder (2005) 2054 เจาะไดโนเสาร์โลกล้านปี
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/9f84f111b7ed17ee08e81332/9f84f111b7ed17ee08e81332.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/The-New-Mutants-2020-%E0%B8%A1%E0%B8%B4%E0%B8%A7%E0%B9%81%E0%B8%97%E0%B8%99%E0%B8%97%E0%B9%8C%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-187x269.jpg",The New Mutants (2020) มิวแทนท์รุ่นใหม่
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://hot.kawsoy.com/autoplaylist/aab4f21009ae9f5380be420d7df60dc6/aab4f21009ae9f5380be420d7df60dc6.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/KKN-di-Desa-Penari-2022-187x269.jpg",KKN di Desa Penari (2022)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/70b9c2f006ada119e97ede13/70b9c2f006ada119e97ede13.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Kingdom-Ashin-of-the-North-2021-187x269.jpg",Kingdom Ashin of the North (2021) ผีดิบคลั่ง บัลลังก์เดือด อาชินแห่งเผ่าเหนือ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/016dbea2e0bc8f84c79440d4/016dbea2e0bc8f84c79440d4.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Virus-32-2022-187x269.png",Virus-32 (2022)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/f4a1e4dd295dfcdc4176eff7/f4a1e4dd295dfcdc4176eff7.m3u8?vhost=streaming-main.24playerhd.com
 
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/SLR-2022-%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%87-%E0%B8%95%E0%B8%B4%E0%B8%94-%E0%B8%95%E0%B8%B2%E0%B8%A2-187x269.jpg",SLR (2022) กล้อง ติด ตาย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/15dff3f79f2e6208abf76b03/15dff3f79f2e6208abf76b03.m3u8?vhost=streaming-main.24playerhd.com
 
 #EXTINF:-1 group-title="หนังสงคราม" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/WIL-2024-%E0%B8%A7%E0%B8%B4%E0%B8%A5-187x269.jpg",WIL (2024) วิล
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
