@@ -54,19 +54,346 @@
 
 
 
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Escape-Room-Tournament-of-Champions-2021-%E0%B8%81%E0%B8%B1%E0%B8%81%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87-%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B9%82%E0%B8%AB%E0%B8%94-2-%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87-187x269.jpg",Escape Room Tournament of Champions (2021) กักห้อง เกมโหด 2 กลับสู่เกมสยอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/d9b75764444e35b53766e50b/d9b75764444e35b53766e50b.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Escape-Room-2019-%E0%B8%81%E0%B8%B1%E0%B8%81%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87-%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B9%82%E0%B8%AB%E0%B8%94-187x269.jpg",Escape Room (2019) กักห้อง เกมโหด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/aaba29087ddcead128a764e4/aaba29087ddcead128a764e4.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Taoist-Priest-in-the-Tomb-2023-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9E%E0%B8%A3%E0%B8%95%E0%B9%80%E0%B8%95%E0%B9%8B%E0%B8%B2%E0%B8%95%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B8%AA%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%99-187x269.jpg",Taoist Priest in the Tomb (2023) นักพรตเต๋าตะลุยสุสาน
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/458fd8d66c9971c812471527/458fd8d66c9971c812471527.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Consecration-2023-187x269.jpg",Consecration (2023)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/c320973725876f546de70836/c320973725876f546de70836.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/I-Am-Legend-2007-%E0%B9%84%E0%B8%AD-%E0%B9%81%E0%B8%AD%E0%B8%A1-%E0%B9%80%E0%B8%A5%E0%B9%80%E0%B8%88%E0%B8%99%E0%B8%94%E0%B9%8C-%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC-187x269.jpg",I Am Legend (2007) ไอ แอม เลเจนด์ ข้าคือตำนานพิฆาตมหากาฬ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/ccbe38b7f10211a1a1d6d4cd/ccbe38b7f10211a1a1d6d4cd.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Glorious-2022-187x269.jpg",Glorious (2022)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/e8ff481127399b16d9178696/e8ff481127399b16d9178696.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Childs-Play-2019-187x269.jpg",Child’s Play (2019) คลั่งฝังหุ่น
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/06ddf6fc8890e67bae3636fd/06ddf6fc8890e67bae3636fd.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Cult-of-Chucky-2017-187x269.jpg",Cult of Chucky (2017) แค้นฝังหุ่น รวมทีมนรกสั่งมาเชือด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/5589ca6c3b044b89eaa93c6f/5589ca6c3b044b89eaa93c6f.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Curse-of-Chucky-2013-187x269.jpg",Curse of Chucky (2013) คำสาปแค้นฝังหุ่น
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/a2da208f42a4cf5df177b8b8/a2da208f42a4cf5df177b8b8.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Seed-of-Chucky-2004-187x269.jpg",Seed of Chucky (2004) เชื้อผีแค้นฝังหุ่น
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/270baf5799f24e114fe12d79/270baf5799f24e114fe12d79.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Bride-of-Chucky-1998-187x269.jpg",Bride of Chucky (1998) แค้นฝังหุ่น คู่สวาทวิวาห์สยอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/4462aba87d50c48ad61b44db/4462aba87d50c48ad61b44db.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Childs-Play-3-1991-187x269.jpg",Child’s Play 3 (1991) แค้นฝังหุ่น 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/6b18607199e17867bc417e7c/6b18607199e17867bc417e7c.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Childs-Play-2-1990-187x269.jpg",Child’s Play 2 (1990) แค้นฝังหุ่น 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/e75d4f6b7a5324cb169b0a13/e75d4f6b7a5324cb169b0a13.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Childs-Play-1988-187x269.jpg",Child’s Play (1988) แค้นฝังหุ่น
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/e14a8b47c26f13722e7f63a0/e14a8b47c26f13722e7f63a0.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Bok-Lao-Kao-Sob-2012-%E0%B8%9A%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%B2-9-%E0%B8%A8%E0%B8%9E-187x269.jpg",Bok Lao Kao Sob (2012) บอกเล่า 9 ศพ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/334a422ff33685f8674f3f7c/334a422ff33685f8674f3f7c.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Sming-2014-%E0%B8%AA%E0%B8%A1%E0%B8%B4%E0%B8%87-%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B8%99-%E0%B8%A5%E0%B9%88%E0%B8%B2-%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B8%99-187x269.jpg",Sming (2014) สมิง พราน ล่า พราน
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/4bff86b92ef3cc3f85a871b9/4bff86b92ef3cc3f85a871b9.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Patient-Zero-2018-%E0%B9%84%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%99%E0%B8%A3%E0%B8%81-187x269.jpg",Patient Zero (2018) ไวรัสพันธุ์นรก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/927ab00cb4294b38bfda9dfd/927ab00cb4294b38bfda9dfd.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Sinister-2-2015-%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A2-2-187x269.jpg",Sinister 2 (2015) เห็นแล้วต้องตาย 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/0912119a6cd28bde65bca2b4/0912119a6cd28bde65bca2b4.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Sinister-2012-%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A2-187x269.jpg",Sinister (2012) เห็นแล้วต้องตาย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/65b5676fe1f6c4f937509ebc/65b5676fe1f6c4f937509ebc.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Get-in-the-Dark-2023-%E0%B8%95%E0%B8%B8%E0%B9%8A%E0%B8%81%E0%B8%95%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B2%E0%B8%A9%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%8A%E0%B8%B5%E0%B8%9E-187x269.jpg",Get in the Dark (2023) ตุ๊กตากระดาษคืนชีพ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/195664f3ddd04ba32eac6392/195664f3ddd04ba32eac6392.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Urban-Myths-2022-%E0%B8%9C%E0%B8%B5%E0%B8%94%E0%B8%B8%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%82%E0%B8%8B%E0%B8%A5-187x269.jpg",Urban Myths (2022) ผีดุสุดโซล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/7bd44d805e22aa87a45f89cf/7bd44d805e22aa87a45f89cf.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Alone-2007-%E0%B9%81%E0%B8%9D%E0%B8%94-187x269.jpg",Alone (2007) แฝด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/58f992d097797b2094769649/58f992d097797b2094769649.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Willys-Wonderland-2021-187x269.jpg",Willy’s Wonderland (2021) หุ่นนรก VS ภารโรงคลั่ง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/2f7fcdf026599da9c2d5caab/2f7fcdf026599da9c2d5caab.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Deinfluencer-2022-187x269.jpg",Deinfluencer (2022)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/3799c6382ca3593310edbf2c/3799c6382ca3593310edbf2c.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Stranger-2023-187x269.jpg",Stranger (2022)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/7cd4333ddd4df52230bbed55/7cd4333ddd4df52230bbed55.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Thir13en-Ghosts-2001-%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%8A%E0%B8%B5%E0%B8%9E-13-%E0%B8%9C%E0%B8%B5-%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%A5%E0%B8%81-187x269.jpg",Thir13en Ghosts (2001) คืนชีพ 13 ผี สยองโลก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/096418d476d4b8dab11668a1/096418d476d4b8dab11668a1.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Cube-2021-187x269.jpg",Cube (2021) กล่องเกมมรณะ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/c03da1550237d940e6ca2fcd/c03da1550237d940e6ca2fcd.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Unwelcome-2022-187x269.jpg",Unwelcome (2022)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/03ff7b32cbd8ac018758d0aa/03ff7b32cbd8ac018758d0aa.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Star-Runners-2009-%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%A1%E0%B8%A4%E0%B8%95%E0%B8%A2%E0%B8%B9%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-187x269.jpg",Star Runners (2009) ฝ่าดาวมฤตยูสุดขอบจักรวาล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/a9f35f4bb495461175352bc9/a9f35f4bb495461175352bc9.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Dragon-Hunting-Soul-Suppressing-Coffin-2023%E0%B9%82%E0%B8%A5%E0%B8%87%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93-187x269.jpg",Dragon Hunting Soul Suppressing Coffin (2023) โลงลับดับวิญญาณ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/b70ca02f5a3668f02b5d938e/b70ca02f5a3668f02b5d938e.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Zombieland-Double-Tap-2019-%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%94%E0%B9%8C-%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89-187x269.jpg",Zombieland Double Tap (2019) ซอมบี้แลนด์ แก๊งซ่าส์ล่าล้างซอมบี้
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-get=https://www.24-hd.com/
+#EXTVLCOPT:http-Host=main.24playerhd.com
+#EXTVLCOPT:http-X-Forward-Host=main.24playerhd.com
+#EXTVLCOPT:http-connection=Keep-Alive
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/6f5eaa448446b209e3b6f046/6f5eaa448446b209e3b6f046.m3u8?vhost=streaming-main.24playerhd.com
 
 #EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Zombieland-2009-%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%94%E0%B9%8C-%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89-187x269.jpg",Zombieland (2009) ซอมบี้แลนด์ แก๊งคนซ่าส์ล่าซอมบี้
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
