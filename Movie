@@ -28,6 +28,161 @@
 
 
 
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Hatchet-3-2013-187x269.jpg",Hatchet 3 (2013)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/c9ecf1db2fdd79095175c46a/c9ecf1db2fdd79095175c46a.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Hatchet-2-2010-187x269.jpg",Hatchet 2 (2010)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/4f2e280f15daba100ca5046a/4f2e280f15daba100ca5046a.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Hatchet-2006-187x269.jpg",Hatchet (2006)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/2cd43d497c3e49b587658d7c/2cd43d497c3e49b587658d7c.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Ghost-Rookie-2023-%E0%B8%9C%E0%B8%B5%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-187x269.jpg",Ghost Rookie (2023) ผีมือใหม่
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/0d6785d00a79258a2aaf43b8/0d6785d00a79258a2aaf43b8.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Flashback-2023-%E0%B9%81%E0%B8%9F%E0%B8%A5%E0%B8%8A%E0%B9%81%E0%B8%9A%E0%B9%87%E0%B8%84-187x269.jpg",Flashback (2023) แฟลชแบ็ค
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/bd3b2a60365c219a5a481433/bd3b2a60365c219a5a481433.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Disco-Inferno-2023-%E0%B8%94%E0%B8%B4%E0%B8%AA%E0%B9%82%E0%B8%81%E0%B9%89-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%99-187x269.jpg",Disco Inferno (2023) ดิสโก้ อินเฟอร์โน
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/e424d052789341e767cf4cbf/e424d052789341e767cf4cbf.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/E-San-of-the-Dead-2022-%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B9%84%E0%B8%97%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99-187x269.jpg",E-San of the Dead (2022) ซอมบี้ไทบ้าน
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/0d763a2413c4c236610c3b61/0d763a2413c4c236610c3b61.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Crocodile-Island-2023-%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%B0%E0%B8%88%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%A2%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C-187x269.jpg",Crocodile Island (2023) เกาะจระเข้ยักษ์
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/4a3963d03313ee819404c63a/4a3963d03313ee819404c63a.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Underwater-2020-%E0%B8%A1%E0%B8%A4%E0%B8%95%E0%B8%A2%E0%B8%B9%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3-187x269.jpg",Underwater (2020) มฤตยูใต้สมุทร
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/6da5a9f8a25d2648af96cb42/6da5a9f8a25d2648af96cb42.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/The-Monster-2016-%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99-187x269.jpg",The Monster (2016) อะไรซ่อน
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/d231469b8369a04781c973cf/d231469b8369a04781c973cf.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Arpat-2023-%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%95-%E0%B8%AD%E0%B8%B2%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4-187x269.jpg",Arpat (2023) เปรต อาบัติ
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/421a43c58299ecaba6e207a5/421a43c58299ecaba6e207a5.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/The-Devil-on-Trial-2023-%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88-187x269.jpg",The Devil on Trial (2023) พิพากษาปีศาจ
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/a03f011173d4ae831b4b4985/a03f011173d4ae831b4b4985.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/The-Nun-2-2023-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%99%E0%B8%B1%E0%B8%99-2-187x269.jpg",The Nun 2 (2023) เดอะ นัน 2
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/365fb7d1b8027a6d40cb5909/365fb7d1b8027a6d40cb5909.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Dark-Harvest-2023-187x269.jpg",Dark Harvest (2023)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/0167dd3b8a1e322ee5f7cf58/0167dd3b8a1e322ee5f7cf58.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/In-My-Mothers-Skin-2023-%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%A5%E0%B8%A7%E0%B8%87-187x269.jpg",In My Mother’s Skin (2023) ร่างลวง
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/ad7fe0e972460bed14bf9531/ad7fe0e972460bed14bf9531.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Evil-Eye-2022-187x269.jpg",Evil Eye (2022)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/39f3ee09951175efcc1caa03/39f3ee09951175efcc1caa03.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/The-Wicker-Man-2006-%E0%B8%AA%E0%B8%B2%E0%B8%9B%E0%B8%AD%E0%B8%B2%E0%B8%96%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%93%E0%B9%8C%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81-187x269.jpg",The Wicker Man (2006) สาปอาถรรพณ์ล่าสุดโลก
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/f416d960da0a0ac6e4e8e67d/f416d960da0a0ac6e4e8e67d.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/The-Conference-2023-%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94-187x269.jpg",The Conference (2023) สัมมานาเลือด
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/abcd2f2f6ae4f184c77e133e/abcd2f2f6ae4f184c77e133e.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/The-Black-Demon-2023-187x269.jpg",The Black Demon (2023)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/8207ac36d04aa77c19297ed4/8207ac36d04aa77c19297ed4.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Pensive-2022-187x269.jpg",Pensive (2022)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/eaa1eb48088cd54b0ee0b265/eaa1eb48088cd54b0ee0b265.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/The-Owners-2020-187x269.jpg",The Owners (2020)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/ff9a2047313f628e5254bf99/ff9a2047313f628e5254bf99.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Dont-Breathe-2-2021-%E0%B8%A5%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A2%E0%B9%83%E0%B8%88%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A2-2-187x269.jpg",Don’t Breathe 2 (2021) ลมหายใจสั่งตาย 2
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/5507e0f676e28b2f113566bf/5507e0f676e28b2f113566bf.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Dont-Breathe-2016-%E0%B8%A5%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A2%E0%B9%83%E0%B8%88%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A2-187x269.jpg",Don’t Breathe (2016) ลมหายใจสั่งตาย
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/b95c1ca154169f3293f957f7/b95c1ca154169f3293f957f7.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/1408-2007-%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B8%81-187x269.jpg",1408 (2007) ห้องสุสานแตก
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/e2aca2ff2ebd9b2e6e3ba6d7/e2aca2ff2ebd9b2e6e3ba6d7.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Totally-Killer-2023-%E0%B8%A2%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%A3-187x269.jpg",Totally Killer (2023) ย้อนเวลาหาฆาตกร
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/7a1fc294846822ed0dcf60cb/7a1fc294846822ed0dcf60cb.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Ghost-Coins-2014-%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%9B%E0%B8%A5%E0%B8%B8%E0%B8%81%E0%B8%9C%E0%B8%B5-187x269.jpg",Ghost Coins (2014) เกมปลุกผี
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/df7fa80674742cd569a2c6c6/df7fa80674742cd569a2c6c6.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Strange-things-in-Western-Hunan-2023-%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%8B%E0%B8%B5-187x269.jpg",Strange things in Western Hunan (2023) คดีลึกลับเซียงซี
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/dd9d9020ae731f12cd25f1dc/dd9d9020ae731f12cd25f1dc.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/07/Waktu-Maghrib-2023-187x269.jpg",Waktu Maghrib (2023)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/ba47f69ef6ee75d39bfae825/ba47f69ef6ee75d39bfae825.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/The-Reef-Stalked-2022-%E0%B8%84%E0%B8%A3%E0%B8%B5%E0%B8%9A%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95-187x269.jpg",The Reef Stalked (2022) ครีบพิฆาต
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/6eead469e47fe35da2587244/6eead469e47fe35da2587244.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/The-Reef-2010-%E0%B8%84%E0%B8%A3%E0%B8%B5%E0%B8%9A%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%A5%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94-187x269.jpg",The Reef (2010) ครีบสยองทะเลเลือด
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/4b42e756bcb1fdcc7ef1cc1b/4b42e756bcb1fdcc7ef1cc1b.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Til-Death-Do-Us-Part-2023-187x269.jpg",Til Death Do Us Part (2023)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/38739c381800fe99aad2b4a6/38739c381800fe99aad2b4a6.m3u8?vhost=streaming-main.24playerhd.com
+
 #EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Fear-Street-Part-Three-1666-2021-%E0%B8%96%E0%B8%99%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%96%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B9%8C-%E0%B8%A0%E0%B8%B2%E0%B8%84-3-1666-187x269.jpg",Fear Street Part Three 1666 (2021) ถนนอาถรรพ์ ภาค 3 1666
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
