@@ -32,7 +32,7 @@
 
 
 
-#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo=https://www.24-hd.com/wp-content/uploads/2024/04/Shin-Godzilla-2016-%E0%B8%81%E0%B9%87%E0%B8%AD%E0%B8%94%E0%B8%8B%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B9%88%E0%B8%B2-1-187x269.jpg"",Shin Godzilla (2016) ก็อดซิลล่า
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/Shin-Godzilla-2016-%E0%B8%81%E0%B9%87%E0%B8%AD%E0%B8%94%E0%B8%8B%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B9%88%E0%B8%B2-1-187x269.jpg",Shin Godzilla (2016) ก็อดซิลล่า
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://main.24playerhd.com/newplaylist/39568b8f2a545dad97421429/39568b8f2a545dad97421429.m3u8?vhost=streaming-main.24playerhd.com
