@@ -31,14 +31,150 @@
 
 
 
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Maleficent-2-Mistress-of-Evil-187x269.png",Maleficent 2 Mistress of Evil (2019) มาเลฟิเซนต์ นางพญาปีศาจ
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://hot.kawsoy.com/autoplaylist/45803764397240fa1a5c75aeb0b1ea26/45803764397240fa1a5c75aeb0b1ea26.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Maleficent-2014-187x269.jpg",Maleficent (2014) มาเลฟิเซนท์ กำเนิดนางฟ้าปีศาจ
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://hot.kawsoy.com/autoplaylist/ca5129745fd446d4fb2b358463ec02fc/ca5129745fd446d4fb2b358463ec02fc.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Monster-Hunter-2020-187x269.jpg",Monster Hunter (2020) มอนสเตอร์ ฮันเตอร์
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/e2e26ab399c6b5166dc46d1f/e2e26ab399c6b5166dc46d1f.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Ghostbusters-4-Afterlife-2021-%E0%B9%82%E0%B8%81%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%9A%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-4-%E0%B8%9B%E0%B8%A5%E0%B8%B8%E0%B8%81%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%9C%E0%B8%B5-187x269.jpg",Ghostbusters 4 Afterlife (2021) โกสต์บัสเตอร์ 4 ปลุกพลังล่าท้าผี
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/2a7fb24a2d305a03322d6806/2a7fb24a2d305a03322d6806.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Ghostbusters-3-2016-%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%A9%E0%B8%B1%E0%B8%97%E0%B8%81%E0%B8%B3%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%9C%E0%B8%B5-3-187x269.jpg",Ghostbusters 3 (2016) บริษัทกำจัดผี 3
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/2279c82a32c89dd4b569fb6f/2279c82a32c89dd4b569fb6f.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Ghostbusters-2-1989-%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%A9%E0%B8%B1%E0%B8%97%E0%B8%81%E0%B8%B3%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%9C%E0%B8%B5-2-187x269.jpg",Ghostbusters 2 (1989) บริษัทกำจัดผี 2
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/7a6f6733c38495e0e1b0bf05/7a6f6733c38495e0e1b0bf05.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Ghostbusters-1-1984-187x269.jpg",Ghostbusters 1 (1984) บริษัทกำจัดผี 1
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/9f88e420b513c79223f708df/9f88e420b513c79223f708df.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/The-Great-Illusionist-2020-187x269.jpg",The Great Illusionist (2020) นักเนรมิตภาพลวง
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/be9e8441ffb5cc640db05368/be9e8441ffb5cc640db05368.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Pinocchio-2019-187x269.jpg",Pinocchio (2019) พินอคคิโอ
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/392ed4f398cd9c9ed78b74da/392ed4f398cd9c9ed78b74da.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Kingdom-Ashin-of-the-North-2021-187x269.jpg",Kingdom Ashin of the North (2021) ผีดิบคลั่ง บัลลังก์เดือด อาชินแห่งเผ่าเหนือ
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/016dbea2e0bc8f84c79440d4/016dbea2e0bc8f84c79440d4.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/The-Green-Knight-2021-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B9%84%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B9%82%E0%B8%84%E0%B9%88%E0%B8%99%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B8%B0-187x269.jpg",The Green Knight (2021) เดอะ กรีนไนท์ ศึกโค่นอัศวินอมตะ
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/e9266178f5eaf9c5b7dcebc1/e9266178f5eaf9c5b7dcebc1.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Fenced-In-2022-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%A7-187x269.jpg",Fenced In (2022) สงครามข้ามรั้ว
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/4bd704244fe8a23812907184/4bd704244fe8a23812907184.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Samaritan-2022-%E0%B8%8B%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%99-187x269.jpg",Samaritan (2022) ซามาริทัน
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/3daee3c07143d6b414f62aaa/3daee3c07143d6b414f62aaa.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Fullmetal-Alchemist-The-Revenge-Of-Scar-2022-%E0%B9%81%E0%B8%82%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%9B%E0%B8%A3%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8-%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%8A%E0%B8%B3%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99-187x269.jpg",Fullmetal Alchemist The Revenge Of Scar (2022) แขนกลคนแปรธาตุ สการ์ชำระแค้น
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/7fc3f0a5a414d9d93c353853/7fc3f0a5a414d9d93c353853.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/FullMetal-Alchemist-2017-187x269.jpg",FullMetal Alchemist (2017) แขนกลคนแปรธาตุ
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/61f44d37b1883ab8e4a91211/61f44d37b1883ab8e4a91211.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Harry-Potter-7-And-The-Deathly-Hallows-Part-2-2011-187x269.jpg",Harry Potter 7 And The Deathly Hallows Part 2 (2011) แฮร์รี่ พอตเตอร์ เครื่องรางยมฑูต ตอน 2
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/f6a5abeac8e9a076af6dce56/f6a5abeac8e9a076af6dce56.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Harry-Potter-7-And-The-Deathly-Hallows-Part-1-2010-187x269.jpg",Harry Potter 7 And The Deathly Hallows Part 1 (2010) แฮร์รี่ พอตเตอร์ เครื่องรางยมฑูต ตอน 1
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/5f64df455dfb9788c998313a/5f64df455dfb9788c998313a.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Harry-Potter-6-And-The-Half-Blood-Prince-2009-%E0%B9%81%E0%B8%AE%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B5%E0%B9%88-%E0%B8%9E%E0%B8%AD%E0%B8%95%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-6-%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B8%9C%E0%B8%AA%E0%B8%A1-250x350.png",Harry Potter 6 แฮร์รี่ พอตเตอร์ ภาค 6 กับเจ้าชายเลือดผสม
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://hot.24playerhd.com/autoplaylist/41a730a5578b8cc236b455fb1f60b819/41a730a5578b8cc236b455fb1f60b819.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Harry-Potter-5-And-The-Order-Of-The-Phoenix-2007-%E0%B9%81%E0%B8%AE%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B5%E0%B9%88-%E0%B8%9E%E0%B8%AD%E0%B8%95%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-5-%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%B5%E0%B8%99%E0%B8%81%E0%B8%9F%E0%B8%B5%E0%B8%99%E0%B8%B4%E0%B8%81%E0%B8%8B%E0%B9%8C-250x350.png",Harry Potter 5 แฮร์รี่ พอตเตอร์ ภาค 5 กับภาคีนกฟีนิกซ์
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://hot.24playerhd.com/autoplaylist/dbff8506aea2a8fa70c49ddb350a72af/dbff8506aea2a8fa70c49ddb350a72af.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Harry-Potter-4-And-The-Goblet-Of-Fire-2005-187x269.jpg",Harry Potter 4 And The Goblet Of Fire (2005) แฮร์รี่ พอตเตอร์ 4 กับถ้วยอัคนี
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/c7922f40938b0b273be032a7/c7922f40938b0b273be032a7.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Harry-Potter-3-And-The-Prisoner-Of-Azkaban-2004-187x269.jpg",Harry Potter 3 And The Prisoner Of Azkaban (2004) แฮร์รี่ พอตเตอร์ 3 กับนักโทษแห่งอัซคาบัน
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/ae8acf3a14d7a169e08392ff/ae8acf3a14d7a169e08392ff.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Harry-Potter-2-And-The-Chamber-Of-Secrets-2002-187x269.jpg",Harry Potter 2 And The Chamber Of Secrets (2002) แฮร์รี่ พอตเตอร์ 2 กับห้องแห่งความลับ
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/769881fa8273082dbe3e9426/769881fa8273082dbe3e9426.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Harry-Potter-1-And-The-Sorcerers-Stone-2001-187x269.jpg",Harry Potter 1 And The Sorcerer’s Stone (2001) แฮร์รี่ พอตเตอร์ 1 กับศิลาอาถรรพ์
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/7446d4ed6d4d5f54b431a704/7446d4ed6d4d5f54b431a704.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/Tarot-2024-%E0%B8%97%E0%B8%B2%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%95%E0%B9%8C-%E0%B9%84%E0%B8%9E%E0%B9%88%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B8%9C%E0%B8%B5-187x269.jpg",Tarot (2024) ทาโร่ต์ ไพ่เรียกผี
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/69381a824778ffe945b94e9b/69381a824778ffe945b94e9b.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/The-First-Omen-2024-%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%AD%E0%B8%B2%E0%B8%96%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B9%8C%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%A5%E0%B8%82-6-1-187x269.jpg",The First Omen (2024) กำเนิดอาถรรพ์หมายเลข 6
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/2a40bbea6c5c098f26827f9e/2a40bbea6c5c098f26827f9e.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/Cobweb-2023-%E0%B8%81%E0%B9%8A%E0%B8%AD%E0%B8%81-%E0%B8%81%E0%B9%8A%E0%B8%AD%E0%B8%81.-%E0%B9%80%E0%B8%84%E0%B8%B2%E0%B8%B0%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B8%9C%E0%B8%B5-187x269.jpg",Cobweb (2023) ก๊อก ก๊อก.. เคาะเรียกผี
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/6e52490b57a5a8dfafd94d93/6e52490b57a5a8dfafd94d93.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/Bula-2022-187x269.jpg",Bula (2022)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/9a52bbc4c42012a8b3c0f1ee/9a52bbc4c42012a8b3c0f1ee.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/Piranha-3DD-2012-%E0%B8%9B%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B9%88%E0%B8%B2-%E0%B8%81%E0%B8%B1%E0%B8%94%E0%B9%81%E0%B8%AB%E0%B8%A5%E0%B8%81%E0%B9%81%E0%B8%AB%E0%B8%A7%E0%B8%81%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%88%E0%B8%AD-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5%E0%B8%94%E0%B8%B8-1-187x269.jpg",Piranha 3DD (2012) ปิรันย่า กัดแหลกแหวกทะลุจอ ดับเบิ้ลดุ
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/ebff3fc386a100165d2ca724/ebff3fc386a100165d2ca724.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/Piranha-3D-2010-%E0%B8%9B%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B9%88%E0%B8%B2-%E0%B8%81%E0%B8%B1%E0%B8%94%E0%B9%81%E0%B8%AB%E0%B8%A5%E0%B8%81%E0%B9%81%E0%B8%AB%E0%B8%A7%E0%B8%81%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8-1-187x269.jpg",Piranha 3D (2010) ปิรันย่า กัดแหลกแหวกทะลุ
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/0068c0eaf9815c2de275fec0/0068c0eaf9815c2de275fec0.m3u8?vhost=streaming-main.24playerhd.com
 
 #EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/The-Cursed-Dead-Mans-Prey-2021-%E0%B8%A8%E0%B8%9E%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%8A%E0%B8%B5%E0%B8%9E-1-187x269.jpg",The Cursed Dead Man’s Prey (2021) ศพคืนชีพ
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
