@@ -29,8 +29,310 @@
 
 
 
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/Detective-Dee-The-Skeleton-General-2022-%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B9%80%E0%B8%AB%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B9%8B%E0%B8%A2-%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%99%E0%B8%B2%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B9%E0%B8%81-187x269.jpg",Detective Dee The Skeleton General (2022) ตี๋เหรินเจี๋ย ปริศนาโครงกระดูก
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/8922680a4db1b15739418f8a/8922680a4db1b15739418f8a.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Maleficent-2-Mistress-of-Evil-187x269.png",Maleficent 2 Mistress of Evil (2019) มาเลฟิเซนต์ นางพญาปีศาจ
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://hot.kawsoy.com/autoplaylist/ecd9090d6d721af10471c7ad63f97a01/ecd9090d6d721af10471c7ad63f97a01.m3u8?vhost=streaming-main.24playerhd.com
 
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Maleficent-2014-187x269.jpg",Maleficent (2014) มาเลฟิเซนท์ กำเนิดนางฟ้าปีศาจ
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://hot.kawsoy.com/autoplaylist/ca5129745fd446d4fb2b358463ec02fc/ca5129745fd446d4fb2b358463ec02fc.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/Headless-Hero-2002-%E0%B8%9C%E0%B8%B5%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B8%B2%E0%B8%94-187x269.jpg",Headless Hero (2002) ผีหัวขาด
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/567349ac85024ecf4e9b3633/567349ac85024ecf4e9b3633.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/Sleepy-Hollow-1999-%E0%B8%84%E0%B8%99%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B8%B2%E0%B8%94-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%84%E0%B8%99-1-187x269.jpg",Sleepy Hollow (1999) คนหัวขาด ล่าหัวคน
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://hot.kawsoy.com/autoplaylist/cd33dcddc824fda5fd2c18f5dde60039/cd33dcddc824fda5fd2c18f5dde60039.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/Painted-Heart-Twin-Tribulations-2023-%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B9%83%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%A7%E0%B8%87-187x269.jpg",Painted Heart Twin Tribulations (2023) วาดรัก ใจสองดวง
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/06dae4e2ea6b8b8c62553dba/06dae4e2ea6b8b8c62553dba.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/Mama-2013-%E0%B8%9C%E0%B8%B5%E0%B8%AB%E0%B8%A7%E0%B8%87%E0%B8%A5%E0%B8%B9%E0%B8%81-187x269.jpg",Mama (2013) ผีหวงลูก
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://hot.kawsoy.com/autoplaylist/f2881141c792f363dce46db37281aaed/f2881141c792f363dce46db37281aaed.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/Puppet-2024-%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B8%A2%E0%B8%B7%E0%B8%A1%E0%B8%A1%E0%B8%B2-1-187x269.jpg",Puppet (2024) ชีวิตที่ถูกยืมมา
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/6c07396df57960e781f75e2c/6c07396df57960e781f75e2c.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/The-Legend-of-Xie-Yaohuan-2024-%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%80%E0%B8%AB%E0%B8%A2%E0%B8%B2%E0%B8%AB%E0%B8%A7%E0%B8%99%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%81-1-187x269.jpg",The Legend of Xie Yaohuan (2024) ตำนานเซี่ยเหยาหวนเมืองตะวันตก
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/920277605947c59c4d02ec3c/920277605947c59c4d02ec3c.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/Novoland-2024-%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%88%E0%B8%B4%E0%B9%88%E0%B8%A7%E0%B9%82%E0%B8%88%E0%B8%A7-1-187x269.jpg",Novoland (2024) คดีประหลาดแห่งจิ่วโจว
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/d44f9d496fa47b502bc95c6d/d44f9d496fa47b502bc95c6d.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/The-First-Myth-Clash-of-Gods-2021-%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%95%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%8A%E0%B8%B0%E0%B8%95%E0%B8%B2%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99-1-187x269.jpg",The First Myth Clash of Gods (2021) ศึกตัดสินชะตาหมื่นเซียน
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/1127f4bf53877d4aa72373ff/1127f4bf53877d4aa72373ff.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/Dog-Days-Are-Over-2024-%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%95%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87-1-187x269.jpg",Dog Days Are Over (2024) สู่อนาคตที่ใหม่ที่ใหญ่ยิ่ง
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/52c81e8d235c8a36ec676484/52c81e8d235c8a36ec676484.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/Alienoid-2-The-Return-to-the-Future-2024-1-187x269.jpg",Alienoid 2 The Return to the Future (2024)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/989d49f568702ed4a8d9b115/989d49f568702ed4a8d9b115.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/The-Water-Horse-The-Legend-Of-The-Deep-2007-%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3-187x269.jpg",The Water Horse The Legend Of The Deep (2007) อภินิหารตำนานเจ้าสมุทร
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/07580f47566b77ea4dcaae90/07580f47566b77ea4dcaae90.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/Love-Without-Permission-2024-%E0%B9%82%E0%B8%9B%E0%B9%80%E0%B8%A2%E0%B9%82%E0%B8%9B%E0%B9%82%E0%B8%A5%E0%B9%80%E0%B8%A2-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B9%E0%B8%8D%E0%B8%AA%E0%B8%A5%E0%B8%B2%E0%B8%A2-187x269.jpg",Love Without Permission (2024) โปเยโปโลเย รักสูญสลาย
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/ad15178c7262421f44e44623/ad15178c7262421f44e44623.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/Ghostbusters-5-Frozen-Empire-2024-%E0%B9%82%E0%B8%81%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%9A%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA-%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A2%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87-187x269.jpg",Ghostbusters 5 Frozen Empire (2024) โกสต์บัสเตอร์ส มหันตภัยเมืองเยือกแข็ง
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/c50a8b619306a421c75580ae/c50a8b619306a421c75580ae.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/Yi-Mei-Returns-2024-%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%AD%E0%B8%B5%E0%B9%89%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%A2-1-187x269.jpg",Yi Mei Returns (2024) มือปราบอี้เหม่ย
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/42c09dc28959de040ffb389f/42c09dc28959de040ffb389f.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/The-Meaning-Of-The-Word-2024-187x269.jpg",The Meaning Of The Word (2024)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/196598f11babd9f313fe878b/196598f11babd9f313fe878b.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/The-Monster-in-the-Abyss-2024-%E0%B9%80%E0%B8%9A%E0%B8%AE%E0%B8%B5%E0%B8%A1%E0%B8%AD%E0%B8%98%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%82%E0%B8%B8%E0%B8%A1%E0%B8%99%E0%B8%A3%E0%B8%81-1-187x269.jpg",The Monster in the Abyss (2024) เบฮีมอธแห่งขุมนรก
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/dfd167f5fe4b4a39c208f443/dfd167f5fe4b4a39c208f443.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/Dr.-Cheon-and-Lost-Talisman-2024-%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%A9%E0%B8%B1%E0%B8%97%E0%B8%81%E0%B8%B3%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%9C%E0%B8%B5-%E0%B8%94%E0%B8%A3.%E0%B8%8A%E0%B8%AD%E0%B8%99-1-187x269.jpg",Dr. Cheon and Lost Talisman (2024) บริษัทกำจัดผี ดร.ชอน
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/9508bb3a85839d32e0536544/9508bb3a85839d32e0536544.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/New-Dragon-Gate-Inn-2024-%E0%B9%80%E0%B8%94%E0%B8%8A%E0%B8%84%E0%B8%B1%E0%B8%A1%E0%B8%A0%E0%B8%B5%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C-187x269.jpg",New Dragon Gate Inn (2024) เดชคัมภีร์แดนพยัคฆ์
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/63e45524f1ff54a5713d33c7/63e45524f1ff54a5713d33c7.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/Mirage-Queen-Prefers-Circus-2022-187x269.jpg",Mirage Queen Prefers Circus (2022)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/c4d0c228931d3f154b83c186/c4d0c228931d3f154b83c186.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/Liz-and-the-Blue-Bird-2018-187x269.jpg",Liz and the Blue Bird (2018)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/21d090446dbac79ea3a5b84d/21d090446dbac79ea3a5b84d.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Alienoid-2022-187x269.jpg",Alienoid (2022)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/34c500d7d49bdc377c6bf0d3/34c500d7d49bdc377c6bf0d3.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/All-of-Us-Strangers-2023-187x269.jpg",All of Us Strangers (2023)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/bd2eadfad9368c0a954d92ae/bd2eadfad9368c0a954d92ae.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/05/Legion-2010-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%97%E0%B8%A7%E0%B8%B2%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%99%E0%B8%A3%E0%B8%81-187x269.jpg",Legion (2010) สงครามเทวาล้างนรก
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/f7a1bc84155c8d252978a2a6/f7a1bc84155c8d252978a2a6.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Fantastic-Beasts-3-The-Secrets-of-Dumbledore-2022-187x269.jpg",Fantastic Beasts 3 The Secrets of Dumbledore (2022) สัตว์มหัศจรรย์ ความลับของดัมเบิลดอร์
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/eba596c00738473088c0eae0/eba596c00738473088c0eae0.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Fantastic-Beasts-2-The-Crimes-of-Grindelwald-2018-%E0%B8%AA%E0%B8%B1%E0%B8%95%E0%B8%A7%E0%B9%8C%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C-%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%A5%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%94%E0%B9%8C-187x269.jpg",Fantastic Beasts 2 The Crimes of Grindelwald (2018) สัตว์มหัศจรรย์ อาชญากรรมของกรินเดลวัลด์
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/75ad43bd0f9fabdcf26e6917/75ad43bd0f9fabdcf26e6917.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Fantastic-Beasts-and-Where-to-Find-Them-2016-187x269.jpg",Fantastic Beasts 1 and Where to Find Them (2016) สัตว์มหัศจรรย์และถิ่นที่อยู่
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/615d69cb585abe9a5e0bf93a/615d69cb585abe9a5e0bf93a.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/To-Me-the-One-Who-Loved-You-2022-%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%9C%E0%B8%A1%E0%B8%84%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%98%E0%B8%AD-187x269.jpg",To Me the One Who Loved You (2022) ถึงผมคนหนึ่งที่รักเธอ
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/f8d9cedd6ab7194b53116b00/f8d9cedd6ab7194b53116b00.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Rohan-at-the-Louvre-2023-%E0%B9%82%E0%B8%A3%E0%B8%AE%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%E0%B8%A5%E0%B8%B9%E0%B8%9F%E0%B8%A3%E0%B9%8C-187x269.jpg",Rohan at the Louvre (2023) โรฮังกับความลับพิพิธภัณฑ์ลูฟร์
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/c95b749f3a3899941cde1120/c95b749f3a3899941cde1120.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/Tomorrow-I-Will-Date-With-Yesterdays-You-2016-%E0%B8%9E%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B8%9C%E0%B8%A1%E0%B8%88%E0%B8%B0%E0%B9%80%E0%B8%94%E0%B8%95%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A7%E0%B8%B2%E0%B8%99-187x269.jpg",Tomorrow I Will Date With Yesterday’s You (2016) พรุ่งนี้ผมจะเดตกับเธอคนเมื่อวาน
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/27343f8c8810e903b2404a4d/27343f8c8810e903b2404a4d.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/The-Lord-of-The-Monsters-2024-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%B4%E0%B8%95%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88-187x269.jpg",The Lord of The Monsters (2024) ประกาศิตเทพปีศาจ
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/35f708b9771b66568ff2b462/35f708b9771b66568ff2b462.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/Swords-Drawn-2024-%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%8B%E0%B8%B2%E0%B8%99-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%A7%E0%B8%99%E0%B8%84%E0%B8%B7%E0%B8%99-187x269.jpg",Swords Drawn (2024) ตำนานสู่ซาน ยอดกระบี่หวนคืน
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/96c247899fc77c6ed58a5bdc/96c247899fc77c6ed58a5bdc.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/Ghost-Book-Obake-Zukan-2022-%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B8%B9%E0%B8%94%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93-1-187x269.jpg",Ghost Book Obake Zukan (2022) อัศจรรย์หนังสือดูดวิญญาณ
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/283061189a6688054043f9e4/283061189a6688054043f9e4.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/The-Omen-2006-%E0%B8%AD%E0%B8%B2%E0%B8%96%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%93%E0%B9%8C%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%8B%E0%B8%B2%E0%B8%95%E0%B8%B2%E0%B8%99%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%82%E0%B8%A5%E0%B8%81-1-187x269.jpg",The Omen (2006) อาถรรพณ์กำเนิดซาตานล้างโลก
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/45519d8f96c7afa197c64f75/45519d8f96c7afa197c64f75.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/The-Tearsmith-2024-%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%95%E0%B8%B2-187x269.jpg",The Tearsmith (2024) เจ้าแห่งน้ำตา
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/49f39299ee648c40ec9027fe/49f39299ee648c40ec9027fe.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/Swiss-Army-Man-2016-1-187x269.jpg",Swiss Army Man (2016)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/4409f6e1bc094dd36f9a5d31/4409f6e1bc094dd36f9a5d31.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/Predators-2010-%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-3-187x269.jpg",Predators (2010) มหากาฬพรีเดเตอร์
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/dce0e781a4678fbdf35010aa/dce0e781a4678fbdf35010aa.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/04/Renfield-2023-187x269.jpg",Renfield (2023) เรนฟิลด์
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/b9b9be8b8884345216b36d7c/b9b9be8b8884345216b36d7c.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Sianviathan-2024-%E0%B8%AA%E0%B8%B1%E0%B8%95%E0%B8%A7%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%B6%E0%B8%A1%E0%B8%B2-187x269.jpg",Sianviathan (2024) สัตว์ร้ายมหึมา
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/f31620653ddbec82514a4c4b/f31620653ddbec82514a4c4b.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Strange-Tales-of-a-Lonely-Studio-2024-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B9%84%E0%B8%88-187x269.jpg",Strange Tales of a Lonely Studio (2024) เรื่องเล่าลึกลับเหลียวไจ
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/68ad093f291359c660e4ab32/68ad093f291359c660e4ab32.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/The-Monkey-King-2022-%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%A3-187x269.jpg",The Monkey King (2022) ตำนานศึกราชาวานร
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/b1ebcda1d820d03d9dad8b6e/b1ebcda1d820d03d9dad8b6e.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Liaozhai-Painting-Wall-2023-%E0%B8%81%E0%B8%B3%E0%B9%81%E0%B8%9E%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88-187x269.jpg",Liaozhai Painting Wall (2023) กำแพงภาพปีศาจ
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/0828c1ccfb04136d7ad1a1da/0828c1ccfb04136d7ad1a1da.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Kung-Fu-Monster-2018-%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3%E0%B8%A2%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%AA%E0%B8%B0%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9F%E0%B9%89%E0%B8%B2-187x269.jpg",Kung Fu Monster (2018) ยุทธจักรอสูรยักษ์สะท้านฟ้า
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/88eaac2857ec8a1ef4eb8dac/88eaac2857ec8a1ef4eb8dac.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/The-Legend-Of-Meng-Po-2024-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%A1%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%82%E0%B8%9C-187x269.jpg",The Legend Of Meng Po (2024) เปิดตำนานเมิ่งโผ
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/e9e66ca141042ff7ebb5c9b5/e9e66ca141042ff7ebb5c9b5.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Irish-Wish-2024-%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%94%E0%B9%8C-187x269.jpg",Irish Wish (2024) ฝันรักไอร์แลนด์
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/b5e1304b7c51060abf1aef17/b5e1304b7c51060abf1aef17.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/A-Werewolf-Boy-2012-%E0%B8%A7%E0%B8%B9%E0%B8%9F%E0%B8%9A%E0%B8%AD%E0%B8%A2-1-187x269.jpg",A Werewolf Boy (2012) วูฟบอย
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/6ae5a13f47c3875006c4e1ed/6ae5a13f47c3875006c4e1ed.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Gods-of-Egypt-2016-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%97%E0%B8%A7%E0%B8%94%E0%B8%B2-187x269.jpg",Gods of Egypt (2016) สงครามเทวดา
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/ecf14b3983f12588d70d24f5/ecf14b3983f12588d70d24f5.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/The-Hobbit-3-The-Battle-Of-The-Five-Armies-2014-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%AE%E0%B8%AD%E0%B8%9A%E0%B8%9A%E0%B8%B4%E0%B8%97-3-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1-5-%E0%B8%97%E0%B8%B1%E0%B8%9E-187x269.jpg",The Hobbit 3 The Battle Of The Five Armies (2014) เดอะ ฮอบบิท 3 สงคราม 5 ทัพ
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/ccb486443aa0b9d399f08e3b/ccb486443aa0b9d399f08e3b.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/The-Hobbit-2-The-Desolation-Of-Smaug-2013-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%AE%E0%B8%AD%E0%B8%9A%E0%B8%9A%E0%B8%B4%E0%B8%97-2-%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%A1%E0%B9%87%E0%B8%AD%E0%B8%84-187x269.jpg",The Hobbit 2 The Desolation Of Smaug (2013) เดอะ ฮอบบิท 2 ดินแดนเปลี่ยวร้างของสม็อค
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/74b9904bbd397541e53438ba/74b9904bbd397541e53438ba.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/The-Hobbit-1-An-Unexpected-Journey-2012-187x269.png",The Hobbit 1 An Unexpected Journey (2012) เดอะ ฮอบบิท การผจญภัยสุดคาดคิด
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/c2aa86ad59aed5e7c791dfc8/c2aa86ad59aed5e7c791dfc8.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Damsel-2024-%E0%B8%94%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B8%B5%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%B4%E0%B8%95-2-187x269.jpg",Damsel (2024) ดรุณีผู้พิชิต
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/f3e2f8db268cdb12f5d1bf0b/f3e2f8db268cdb12f5d1bf0b.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Biography-of-Meng-Po-2024-%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%A1%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%82%E0%B8%9C-187x269.jpg",Biography of Meng Po (2024) ตำนานเมิ่งโผ
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/8723d7b8ae580133d792c07b/8723d7b8ae580133d792c07b.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Immortals-2011-%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%98%E0%B8%99%E0%B8%B9%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B8%B0-187x269.jpg",Immortals (2011) เทพเจ้าธนูอมตะ
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/7763cd8a417c30201223addb/7763cd8a417c30201223addb.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Before-I-Fall-2017-%E0%B8%95%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%A1%E0%B8%B2-%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%A7%E0%B8%B1%E0%B8%99-%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2-187x269.jpg",Before I Fall (2017) ตื่นมา ทุกวัน ฉันตาย
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/59ddd249b28647ca0b6a57c4/59ddd249b28647ca0b6a57c4.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Blocking-The-Horse-2024-%E0%B8%82%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%A1%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A7%E0%B9%89%E0%B8%B2%E0%B8%94%E0%B8%B2%E0%B8%9A-187x269.jpg",Blocking The Horse (2024) ขวางม้าและคว้าดาบ
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/e6fc4dfc3c9a39a83a8b48ad/e6fc4dfc3c9a39a83a8b48ad.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Detective-Dee-And-The-Phantom-Of-Waning-Moon-2024-%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B9%80%E0%B8%AB%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B9%8B%E0%B8%A2%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-187x269.jpg",Detective Dee And The Phantom Of Waning Moon (2024) ตี๋เหรินเจี๋ยปีศาจแห่งจันทร์
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/58eadc9d2285a57be3597ff6/58eadc9d2285a57be3597ff6.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/Tomb-Raider-2018-%E0%B8%97%E0%B8%B9%E0%B8%A1-%E0%B9%80%E0%B8%A3%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C-187x269.jpg",Tomb Raider (2018) ทูม เรเดอร์
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/dcfe7fdfbee360fad45a3100/dcfe7fdfbee360fad45a3100.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Lara-Croft-Tomb-Raider-The-Cradle-of-Life-2003-%E0%B8%A5%E0%B8%B2%E0%B8%A3%E0%B9%88%E0%B8%B2-%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%9F%E0%B8%97%E0%B9%8C-%E0%B8%97%E0%B8%B9%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%81%E0%B8%B9%E0%B9%89%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%99%E0%B8%B2-187x269.jpg",Lara Croft Tomb Raider The Cradle of Life (2003) ลาร่า ครอฟท์ ทูมเรเดอร์ กู้วิกฤตล่ากล่องปริศนา
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/8fc087c50aed1a05c2f7747e/8fc087c50aed1a05c2f7747e.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/01/The-Legend-of-Herring-2022-%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B9%81%E0%B8%AE%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%87-187x269.jpg",The Legend of Herring (2022) ตำนานปลาแฮร์ริ่ง
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/e17addf1c540e0a5d570f61d/e17addf1c540e0a5d570f61d.m3u8?vhost=streaming-main.24playerhd.com
 
 #EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Lara-Croft-Tomb-Raider-2001-%E0%B8%A5%E0%B8%B2%E0%B8%A3%E0%B9%88%E0%B8%B2-%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%9F%E0%B8%97%E0%B9%8C-%E0%B8%97%E0%B8%B9%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C-187x269.jpg",Lara Croft Tomb Raider (2001) ลาร่า ครอฟท์ ทูมเรเดอร์
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
