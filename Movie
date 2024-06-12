@@ -34,8 +34,45 @@
 
 
 
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/The-Watchers-2024-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%A7%E0%B8%AD%E0%B8%97%E0%B9%80%E0%B8%8A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA-187x269.jpg",The Watchers (2024) เดอะวอทเชอร์ส
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/d1f1b5e849f26f748dc52dd3/d1f1b5e849f26f748dc52dd3.m3u8
 
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/Penduko-2023-%E0%B9%80%E0%B8%9B%E0%B8%99%E0%B8%94%E0%B8%B9%E0%B9%82%E0%B8%81%E0%B9%89-1-187x269.jpg",Penduko (2023) เปนดูโก้
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/df77d697d2804f71c414bd88/df77d697d2804f71c414bd88.m3u8
 
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/Revolutionize-The-World-2024-%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%8C-1-187x269.jpg",Revolutionize The World (2024) พลิกโลกกลับสวรรค์
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/029cdd159eacd5ec14685d17/029cdd159eacd5ec14685d17.m3u8
+
+#EXTINF:-1 group-title="แฟนตาซี Fantasy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/All-In-2024-%E0%B8%AB%E0%B8%A1%E0%B8%94%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%95%E0%B8%B1%E0%B8%81-187x269.jpg",All In (2024) หมดหน้าตัก
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/a8939c4268aae57f355e54c2/a8939c4268aae57f355e54c2.m3u8
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/The-Watchers-2024-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%A7%E0%B8%AD%E0%B8%97%E0%B9%80%E0%B8%8A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA-187x269.jpg",The Watchers (2024) เดอะวอทเชอร์ส
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/d1f1b5e849f26f748dc52dd3/d1f1b5e849f26f748dc52dd3.m3u8
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/The-Strangers-Chapter-1-2024-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%A3%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA-%E0%B8%AD%E0%B8%B3%E0%B8%A1%E0%B8%AB%E0%B8%B4%E0%B8%95%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%AA%E0%B8%99-187x269.jpg",The Strangers Chapter 1 (2024) เดอะ สเตรนเจอร์ส อำมหิตฆ่าไม่สน
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/bde6004012933fee021a65c7/bde6004012933fee021a65c7.m3u8
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/Exhuma-2024-%E0%B8%82%E0%B8%B8%E0%B8%94%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%A1-1-187x269.jpg",Exhuma (2024) ขุดมันขึ้นมาจากหลุม
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/6e1c998c8c17b3afcef6e050/6e1c998c8c17b3afcef6e050.m3u8
+
+#EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/Unhuman-2022-%E0%B9%80%E0%B8%9C%E0%B8%8A%E0%B8%B4%E0%B8%8D%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%AD%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C-187x269.jpg",Unhuman (2022) เผชิญหน้าท้าอมนุษย์
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://hot.kawsoy.com/autoplaylist/6d450c4f4148835679098cc39479b085/6d450c4f4148835679098cc39479b085.m3u8
 
 #EXTINF:-1 group-title="หนังสยองขวัญ Horror" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/Under-Paris-2024-%E0%B8%A1%E0%B8%A4%E0%B8%95%E0%B8%A2%E0%B8%B9-%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%9B%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%AA-187x269.jpg",Under Paris (2024) มฤตยู ใต้ปารีส
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
