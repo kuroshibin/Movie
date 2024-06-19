@@ -72,7 +72,7 @@ https://main.24playerhd.com/newplaylist/18b0542c47d85848d0ddfad1/18b0542c47d8584
 #EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://main.24playerhd.com/newplaylist/4149ec8f1b3d3839ce6cfb83/4149ec8f1b3d3839ce6cfb83.m3u8?vhost=streaming-main.24playerhd.com
 
-#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo=https://www.24-hd.com/wp-content/uploads/2022/11/Satria-Dewa-Gatotkaca-2022-187x269.jpg"",Satria Dewa Gatotkaca (2022)
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Satria-Dewa-Gatotkaca-2022-187x269.jpg",Satria Dewa Gatotkaca (2022)
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 https://main.24playerhd.com/newplaylist/3d7ecfc69231a6aae9aea47b/3d7ecfc69231a6aae9aea47b.m3u8?vhost=streaming-main.24playerhd.com
