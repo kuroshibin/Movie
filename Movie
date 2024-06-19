@@ -34,6 +34,259 @@
 
 
 
+
+
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/The-Avengers-1-2012-%E0%B8%94%E0%B8%B4-%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A7%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA-187x269.jpg",The Avengers 1 (2012) ดิ เอเวนเจอร์ส
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/4ff8c1d14d3170cbd878b09e/4ff8c1d14d3170cbd878b09e.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Thor-1-2011-%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%9F%E0%B9%89%E0%B8%B2-1-187x269.jpg",Thor 1 (2011) เทพเจ้าสายฟ้า 1
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/69760f85460220106348066d/69760f85460220106348066d.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/The-Incredible-Hulk-2008-%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87-187x269.jpg",The Incredible Hulk (2008) มนุษย์ตัวเขียวจอมพลัง
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/6dca15627e14d196b956ff56/6dca15627e14d196b956ff56.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Iron-Man-2-2010-%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%B1%E0%B8%A2%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%B0%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81-2-187x269.jpg",Iron Man 2 (2010) มหาประลัยคนเกราะเหล็ก 2
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/361ecd8c18ff93e535c73e16/361ecd8c18ff93e535c73e16.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Iron-Man-2008-%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%B1%E0%B8%A2%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%B0%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81-187x269.jpg",Iron Man (2008) มหาประลัยคนเกราะเหล็ก
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/2a4a4f48334b2be5ec8ff058/2a4a4f48334b2be5ec8ff058.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Captain-Marvel-2019-187x269.jpg",Captain Marvel (2019) กัปตันมาร์เวล
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/18b0542c47d85848d0ddfad1/18b0542c47d85848d0ddfad1.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Captain-America-1-The-First-Avenger-2011-187x269.jpg",Captain America 1 The First Avenger (2011) กัปตันอเมริกา อเวนเจอร์ที่ 1
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/4149ec8f1b3d3839ce6cfb83/4149ec8f1b3d3839ce6cfb83.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo=https://www.24-hd.com/wp-content/uploads/2022/11/Satria-Dewa-Gatotkaca-2022-187x269.jpg"",Satria Dewa Gatotkaca (2022)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/3d7ecfc69231a6aae9aea47b/3d7ecfc69231a6aae9aea47b.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Lost-Bullet-2-Back-for-More-2022-187x269.jpg",Lost Bullet 2 Back for More (2022) แรงทะลุกระสุน 2
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/979c5a63477de25d17242c41/979c5a63477de25d17242c41.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Lost-Bullet-2020-187x269.jpg",Lost Bullet (2020) แรงทะลุกระสุน
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/bb45646af6164fac16864dd0/bb45646af6164fac16864dd0.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Shadow-Master-2022-187x269.jpg",Shadow Master (2022)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/3b809fe16387aa6e82196aef/3b809fe16387aa6e82196aef.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/The-Up-Rank-2022-%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B9%80%E0%B8%81%E0%B8%A1-187x269.jpg",The Up Rank (2022) อาชญาเกม
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/e506ddbacfb6e00348751725/e506ddbacfb6e00348751725.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Jujutsu-Kaisen-0-2021-%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B8%9C%E0%B8%99%E0%B8%B6%E0%B8%81%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%8B%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88-187x269.jpg",Jujutsu Kaisen 0 (2021) มหาเวทย์ผนึกมารซีโร่
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/9353ae4b3b0fd7b36a22b305/9353ae4b3b0fd7b36a22b305.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Brahmastra-Part-One-Shiva-2022-187x269.jpg",Brahmastra Part One Shiva (2022)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/7bf80b66c8fd2b291f5a12e1/7bf80b66c8fd2b291f5a12e1.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/R.I.P.D.-2-Rise-of-the-Damned-2022-187x269.jpg",R.I.P.D. 2 Rise of the Damned (2022)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/273e3c400c8ca2b7cd3243bf/273e3c400c8ca2b7cd3243bf.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Valerian-and-the-City-of-a-Thousand-Planets-2017-187x269.jpg",Valerian and the City of a Thousand Planets (2017) วาเลเรียน พลิกจักรวาล
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/32abc7bafae49da9c25ed6c2/32abc7bafae49da9c25ed6c2.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Tron-Legacy-2010-187x269.jpg",Tron Legacy (2010) ทรอน ล่าข้ามโลกอนาคต
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/107437f1eb5d9e8a5122e440/107437f1eb5d9e8a5122e440.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Necromancer-2-2019-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%82%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B9%8C-2-187x269.jpg",Necromancer 2 (2019) จอมขมังเวทย์ 2
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://hot.kawsoy.com/autoplaylist/266579b5c494bb723d8863982c2c8259/266579b5c494bb723d8863982c2c8259.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Marakkar-Lion-of-the-Arabian-Sea-2021-187x269.jpg",Marakkar Lion of the Arabian Sea (2021)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/eced492ad53b3a510769522d/eced492ad53b3a510769522d.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Overdose-2022-187x269.jpg",Overdose (2022)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/187eef901a052834b7171df6/187eef901a052834b7171df6.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/The-System-2022-187x269.jpg",The System (2022)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/234b3eb74933c186206e9611/234b3eb74933c186206e9611.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Enola-Holmes-2-2022-%E0%B9%80%E0%B8%AD%E0%B9%82%E0%B8%99%E0%B8%A5%E0%B8%B2-%E0%B9%82%E0%B8%AE%E0%B8%A5%E0%B9%8C%E0%B8%A1%E0%B8%AA%E0%B9%8C-2-187x269.jpg",Enola Holmes 2 (2022) เอโนลา โฮล์มส์ 2
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/358660cd2e8676cabfea7982/358660cd2e8676cabfea7982.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Enola-Holmes-2020-%E0%B9%80%E0%B8%AD%E0%B9%82%E0%B8%99%E0%B8%A5%E0%B8%B2-%E0%B9%82%E0%B8%AE%E0%B8%A5%E0%B9%8C%E0%B8%A1%E0%B8%AA%E0%B9%8C-187x269.jpg",Enola Holmes (2020) เอโนลา โฮล์มส์
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://hot.kawsoy.com/autoplaylist/fe2a64f1586da2a4072f14bddd1ef459/fe2a64f1586da2a4072f14bddd1ef459.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/The-Takeover-2022-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%80%E0%B8%97%E0%B8%84-%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C-187x269.jpg",The Takeover (2022) เดอะ เทค โอเวอร์
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/31e08e3a1ecc6ec9b87d5bb8/31e08e3a1ecc6ec9b87d5bb8.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Emergency-Declaration-2022-187x269.jpg",Emergency Declaration (2022) ไฟลต์คลั่ง ฝ่านรกชีวะ
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/8dd4b8a2343cbf243f5a4127/8dd4b8a2343cbf243f5a4127.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Hod-Na-Hiaw-966-2009-%E0%B9%82%E0%B8%AB%E0%B8%94-%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2-%E0%B9%80%E0%B8%AB%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7-966-187x269.jpg",Hod Na Hiaw 966 (2009) โหด หน้า เหี่ยว 966
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/044f0ebcef669884fee17468/044f0ebcef669884fee17468.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/All-Quiet-on-The-Western-Front-2022-187x269.jpg",All Quiet on The Western Front (2022) แนวรบด้านตะวันตก เหตุการณ์ไม่เปลี่ยนแปลง
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/214ad93e2024d640ecb0c3c3/214ad93e2024d640ecb0c3c3.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Leio-2022-187x269.jpg",Leio (2022) ไลโอโคตรแย้ยักษ์
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/a8d0512f9c764701b6ffe983/a8d0512f9c764701b6ffe983.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Robbing-Mussolini-187x269.jpg",Robbing Mussolini (2022) ปล้นมุสโสลินี
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/58d006364a813cd328a1df6b/58d006364a813cd328a1df6b.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Hounded-2022-187x269.jpg",Hounded (2022)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/f4e934ddaf862cdfe752afb0/f4e934ddaf862cdfe752afb0.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Thor-Tales-of-Asgard-2011-187x269.jpg",Thor Tales of Asgard (2011)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/0eb62200a2a2e24fda556442/0eb62200a2a2e24fda556442.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo=https://www.24-hd.com/wp-content/uploads/2022/10/Detective-vs-Sleuths-2022-187x269.jpg"",Detective vs Sleuths (2022)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/4dc6b5d4f561c5e564bb9902/4dc6b5d4f561c5e564bb9902.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Blade-of-the-47-Ronin-2022-187x269.jpg",Blade of the 47 Ronin (2022)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/7d5213d1505adf5d93f0cf71/7d5213d1505adf5d93f0cf71.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/The-School-for-Good-and-Evil-2022-%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%94%E0%B8%B5%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7-187x269.jpg",The School for Good and Evil (2022) โรงเรียนแห่งความดีและความชั่ว
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/60de208ab41fd7bc888e9555/60de208ab41fd7bc888e9555.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/The-Enforcer-2022-187x269.jpg",The Enforcer (2022)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/0d74e4cc9e9bf768ba3a5a0c/0d74e4cc9e9bf768ba3a5a0c.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Bangkok-Love-Story-2007-187x269.jpg",Bangkok Love Story (2007) เพื่อน กูรักมึงว่ะ
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/fe5b86fb6d3920f5bf334f4e/fe5b86fb6d3920f5bf334f4e.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Fortress-2021-187x269.jpg",Fortress (2021) ชำระแค้นป้อมนรก
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/bf54cf9cf746af720b9df9c7/bf54cf9cf746af720b9df9c7.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Guns-Akimbo-2019-187x269.jpg",Guns Akimbo (2019) โทษที มือพี่ไม่ว่าง
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/e9f461be5f11aab9e746be82/e9f461be5f11aab9e746be82.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Accident-Man-Hitmans-Holiday-2022-187x269.jpg",Accident Man Hitmans Holiday (2022)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/209e388aa6a6f68fa3acfe23/209e388aa6a6f68fa3acfe23.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Blackout-2022-187x269.jpg",Blackout (2022)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/b5e55d01ff101d8df16153e1/b5e55d01ff101d8df16153e1.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Medieval-2022-187x269.jpg",Medieval (2022)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/71aa8c0a40587b47377ce32f/71aa8c0a40587b47377ce32f.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Dragon-Inn-1992-187x269.jpg",Dragon Inn (1992) เดชคัมภีร์แดนพยัคฆ์
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/20a5f8a6ac00e404234d7bcd/20a5f8a6ac00e404234d7bcd.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Day-Zero-2022-187x269.jpg",Day Zero (2022)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/28c9a150f74b2441e6609e49/28c9a150f74b2441e6609e49.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/No-Time-to-Die-2021-187x269.jpg",No Time to Die (2021) 007 พยัคฆ์ร้ายฝ่าเวลามรณะ
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://hot.kawsoy.com/autoplaylist/3b52dd60426e324d7ee7fc47999b6fef/3b52dd60426e324d7ee7fc47999b6fef.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Everything-Everywhere-All-at-Once-2022-%E0%B8%8B%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%88%E0%B9%8A%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A1%E0%B8%B1%E0%B8%A5%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%A7%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%AA-187x269.jpg",Everything Everywhere All at Once (2022) ซือเจ๊ทะลุมัลติเวิร์ส
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/6685461bc1ee7aace6420533/6685461bc1ee7aace6420533.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Avarice-2022-187x269.jpg",Avarice (2022)
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/277784b6b4de53bc287754bd/277784b6b4de53bc287754bd.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Blade-Runner-2049-2017-187x269.jpg",Blade Runner 2049 (2017) เบลด รันเนอร์ 2049
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://hot.kawsoy.com/autoplaylist/0fa9dbe2929a02deb9ef26c5248f75d0/0fa9dbe2929a02deb9ef26c5248f75d0.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Total-Recall-2012-187x269.jpg",Total Recall (2012) คนทะลุโลก
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://hot.kawsoy.com/autoplaylist/90e7343d395de4f5db18851c1eaca0fb/90e7343d395de4f5db18851c1eaca0fb.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Total-Recall-1990-187x269.jpg",Total Recall (1990) คนทะลุโลก
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://main.24playerhd.com/newplaylist/609c1512366ca0a75f19633f/609c1512366ca0a75f19633f.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Minority-Report-2002-187x269.jpg",Minority Report (2002) หน่วยสกัดอาชญากรรม ล่าอนาคต
+#EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+https://hot.kawsoy.com/autoplaylist/588173b999b18002614e840dcb04c5b2/588173b999b18002614e840dcb04c5b2.m3u8?vhost=streaming-main.24playerhd.com
+
 #EXTINF:-1 group-title="หนังแอคชั่น Action" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Crocodile-Vengeance-2022-187x269.jpg",Crocodile Vengeance (2022)
 #EXT-X-MEDIA:TYPE=VIDEO,AUTOSELECT=YES,DEFAULT=YES
 #EXT-X-STREAM-INF:BANDWIDTH=1999999,RESOLUTION=640x480,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
